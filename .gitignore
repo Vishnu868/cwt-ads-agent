@@ -1,0 +1,17 @@
+adagent/
+.env
+credentials/
+outputs/*.mp4
+outputs/*.mp3
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+logs/*.log
+logs/*.zip
+remotion_project/node_modules/
+remotion_project/out/

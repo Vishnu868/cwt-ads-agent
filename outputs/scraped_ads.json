@@ -1,0 +1,3219 @@
+{
+  "scraped_at": "2026-05-07T02:41:09.118678",
+  "total_ads": 20,
+  "lookback_days": 30,
+  "ads": [
+    {
+      "id": "1416709816595198",
+      "page_name": "Zima Dental",
+      "ad_text": "",
+      "headline": "{{product.name}}",
+      "cta": "",
+      "start_date": 1772784000,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "106762227770204",
+        "adArchiveID": "1416709816595198",
+        "startDateFormatted": "2026-03-06T08:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "1416709816595198",
+        "collationCount": null,
+        "collationId": "2396000780865510",
+        "pageId": "106762227770204",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "106762227770204",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/dentalpoduk/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Zima Dental",
+          "pageProfilePictureUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/641594338_1400421207973283_1529067830446451640_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U22C0_jgRVMQ7kNvwGNQY-L&_nc_oc=Adq9SCoIYyNj_D8thz7r7iPR7jvo_4fRUClc4ApZJi-XSm9hIzGpNpL8KVZtLmzbpOM&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af5ssjK1gTugm97T9WhPQ6HGq7BrYuPXXw0AcCxzbpCqYg&oe=6A0164FC",
+          "event": null,
+          "caption": "zimadental.co",
+          "ctaText": "Shop now",
+          "cards": [
+            {
+              "body": "The Dental Pod was awarded Dental Product of the Year for a reason; it delivers industry-leading tech.",
+              "ctaType": "SHOP_NOW",
+              "caption": "",
+              "linkDescription": "Free shipping in the US.",
+              "linkUrl": "https://zimadental.co/products/ultrasonic-retainer-cleaner?fbclid=fbclid",
+              "title": "Rated ***** by customers worldwide",
+              "ctaText": "Shop Now",
+              "videoHdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOMqvYcZfRtOhzLdBl99c8CdJlvtM6y9lhnVd9XKkrqzTW6EvorsBOr8rHBZevsyLUnaahlIZQb5NthjT0xwkG0AwBrqNqMzkBTCXNKu5ZM_w.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=_qyiGOsTdbMQ7kNvwG2vi91&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MzA4MDI3MTQ1NjM3NjgsImFzc2V0X2FnZV9kYXlzIjo3MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=36b97255e82a42f0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMjQ4NTg5RTc3MjMxM0NERDc5MTVGNTBBNkE1NTc4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUzNDA0Q0MyQUE5RUVCMzc5QjQ2OTBGRUZBNTlCMjlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbw0tKP_YmTBhUCKAJDMywXQFChR64UeuEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af4DCLGRzKf-a7A6HGWLPzp378oMFHRZErvYG3iwAw-17Q&oe=6A019B2B",
+              "videoPreviewImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/641435163_26217847851185237_8679951697654165945_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xzqwyaO45K0Q7kNvwEFzcS-&_nc_oc=AdoTZSv41u2kGjEfXCYj7krNDKj1rFWPVIPvHCZpIEdkJxdMWYxxq28djM7N5Rb6qWU&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af7GIpTXFy2_5vdlQzQZ62VAval07U5j-e5mYX5nEF16QA&oe=6A01791F",
+              "videoSdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPQzWH-Ii2qzMrrnvwIAw3v-OKi1xYi-JW1ht1IY9aEs73eW98JNhtGSHHVzsSe4QtiGK54D7wOnq8cdjF9KBQeKBfSjsk2q2DJEghw-g.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=HUT7Wjre3X4Q7kNvwHvhZPM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTczMDgwMjcxNDU2Mzc2OCwiYXNzZXRfYWdlX2RheXMiOjcwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af5gASQNKEG-vGDpftTBCS-FS2Y8EbDuw0pgFCatHWjP7Q&oe=6A0179D4",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            },
+            {
+              "body": "The Dental Pod was awarded Dental Product of the Year for a reason; it delivers industry-leading tech.",
+              "ctaType": "SHOP_NOW",
+              "caption": "",
+              "linkDescription": "Free shipping in the US.",
+              "linkUrl": "https://zimadental.co/products/ultrasonic-retainer-cleaner?fbclid=fbclid",
+              "title": "Rated ***** by customers worldwide",
+              "ctaText": "Shop Now",
+              "videoHdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOMqvYcZfRtOhzLdBl99c8CdJlvtM6y9lhnVd9XKkrqzTW6EvorsBOr8rHBZevsyLUnaahlIZQb5NthjT0xwkG0AwBrqNqMzkBTCXNKu5ZM_w.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=_qyiGOsTdbMQ7kNvwG2vi91&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MzA4MDI3MTQ1NjM3NjgsImFzc2V0X2FnZV9kYXlzIjo3MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=36b97255e82a42f0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMjQ4NTg5RTc3MjMxM0NERDc5MTVGNTBBNkE1NTc4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUzNDA0Q0MyQUE5RUVCMzc5QjQ2OTBGRUZBNTlCMjlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbw0tKP_YmTBhUCKAJDMywXQFChR64UeuEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af4DCLGRzKf-a7A6HGWLPzp378oMFHRZErvYG3iwAw-17Q&oe=6A019B2B",
+              "videoPreviewImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/641435163_26217847851185237_8679951697654165945_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xzqwyaO45K0Q7kNvwEFzcS-&_nc_oc=AdoTZSv41u2kGjEfXCYj7krNDKj1rFWPVIPvHCZpIEdkJxdMWYxxq28djM7N5Rb6qWU&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af7GIpTXFy2_5vdlQzQZ62VAval07U5j-e5mYX5nEF16QA&oe=6A01791F",
+              "videoSdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPQzWH-Ii2qzMrrnvwIAw3v-OKi1xYi-JW1ht1IY9aEs73eW98JNhtGSHHVzsSe4QtiGK54D7wOnq8cdjF9KBQeKBfSjsk2q2DJEghw-g.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=HUT7Wjre3X4Q7kNvwHvhZPM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTczMDgwMjcxNDU2Mzc2OCwiYXNzZXRfYWdlX2RheXMiOjcwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af5gASQNKEG-vGDpftTBCS-FS2Y8EbDuw0pgFCatHWjP7Q&oe=6A0179D4",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            },
+            {
+              "body": "The Dental Pod was awarded Dental Product of the Year for a reason; it delivers industry-leading tech.",
+              "ctaType": "SHOP_NOW",
+              "caption": "",
+              "linkDescription": "Free shipping in the US.",
+              "linkUrl": "https://zimadental.co/products/ultrasonic-retainer-cleaner?fbclid=fbclid",
+              "title": "Rated ***** by customers worldwide",
+              "ctaText": "Shop Now",
+              "videoHdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOMqvYcZfRtOhzLdBl99c8CdJlvtM6y9lhnVd9XKkrqzTW6EvorsBOr8rHBZevsyLUnaahlIZQb5NthjT0xwkG0AwBrqNqMzkBTCXNKu5ZM_w.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=_qyiGOsTdbMQ7kNvwG2vi91&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MzA4MDI3MTQ1NjM3NjgsImFzc2V0X2FnZV9kYXlzIjo3MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=36b97255e82a42f0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMjQ4NTg5RTc3MjMxM0NERDc5MTVGNTBBNkE1NTc4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUzNDA0Q0MyQUE5RUVCMzc5QjQ2OTBGRUZBNTlCMjlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbw0tKP_YmTBhUCKAJDMywXQFChR64UeuEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af4DCLGRzKf-a7A6HGWLPzp378oMFHRZErvYG3iwAw-17Q&oe=6A019B2B",
+              "videoPreviewImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/641435163_26217847851185237_8679951697654165945_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xzqwyaO45K0Q7kNvwEFzcS-&_nc_oc=AdoTZSv41u2kGjEfXCYj7krNDKj1rFWPVIPvHCZpIEdkJxdMWYxxq28djM7N5Rb6qWU&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af7GIpTXFy2_5vdlQzQZ62VAval07U5j-e5mYX5nEF16QA&oe=6A01791F",
+              "videoSdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPQzWH-Ii2qzMrrnvwIAw3v-OKi1xYi-JW1ht1IY9aEs73eW98JNhtGSHHVzsSe4QtiGK54D7wOnq8cdjF9KBQeKBfSjsk2q2DJEghw-g.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=HUT7Wjre3X4Q7kNvwHvhZPM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTczMDgwMjcxNDU2Mzc2OCwiYXNzZXRfYWdlX2RheXMiOjcwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af5gASQNKEG-vGDpftTBCS-FS2Y8EbDuw0pgFCatHWjP7Q&oe=6A0179D4",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            },
+            {
+              "body": "The Dental Pod was awarded Dental Product of the Year for a reason; it delivers industry-leading tech.",
+              "ctaType": "SHOP_NOW",
+              "caption": "",
+              "linkDescription": "Free shipping in the US.",
+              "linkUrl": "https://zimadental.co/products/ultrasonic-retainer-cleaner?fbclid=fbclid",
+              "title": "Never Brush Your Retainer Again",
+              "ctaText": "Shop Now",
+              "videoHdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOTf_OLIfXY8Wo-9d07sMGIDB4UMLf5D8qpO9-OzONf8xOp2I0Px2YbOFh3eR-JcdqCnCrSWxhYZ9k2OaDyGiRdodclI4uZrFF_7NuAy063tg.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=PZSXLrB8SScQ7kNvwGM4DZu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkyMjQzMTYyMzU4NDI3NSwiYXNzZXRfYWdlX2RheXMiOjcyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4913b5c561a07cbb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQjQ1RUM2MDIyMEUxM0ZFRDBFQTMwQ0FGNTc5NzA5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJGNEY2RDVBQ0VGM0RFMkUzQzkwREQ4QkVCRUI3ODlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACam6IaUy7yjAxUCKAJDMywXQFCRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af7YLTj_aTI3oRQtyNgZphbW6BPqqJsEsd0vhwivQIPPgA&oe=6A01791F",
+              "videoPreviewImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/643370257_25023938480616392_5122856763670200907_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P-UW5iieuowQ7kNvwE4PgB6&_nc_oc=AdqizeQWuYlwXKeOC-x4T8MoerOdgFKTnnZK-Fkc31-eF5sVvxi3JCnroGMnfX2sw4o&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af59r43Mzyf66g8C8IzVpzfUhdpFGFxl3GVZaRtjurlgpQ&oe=6A0185A8",
+              "videoSdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMm7zfOa4tyA18bWzPlrEN6657-g0tQqiPS188XrC8klrZ19NTcORhoxHnwj_4nO92brpOfYhZj1s9gn04FBQflI2podG3OQ0J8J72x8Q.mp4?_nc_cat=107&_nc_sid=8bf8fe&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=I4x3jq3MjpEQ7kNvwERB722&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTIyNDMxNjIzNTg0Mjc1LCJhc3NldF9hZ2VfZGF5cyI6NzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af7kVKQwz_p2sGjrMl53VXDfERnNeTx9GiSutEvm-LxLsQ&oe=6A01678B",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            }
+          ],
+          "body": {
+            "text": "{{product.brand}}"
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "DCO",
+          "linkDescription": "{{product.description}}",
+          "linkUrl": "https://zimadental.co/products/ultrasonic-retainer-cleaner?fbclid=fbclid",
+          "images": [],
+          "pageCategories": [
+            "Health/beauty"
+          ],
+          "pageLikeCount": 17385,
+          "title": "{{product.name}}",
+          "videos": [],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Zima Dental",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "startDate": 1772784000,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "1000589081542754",
+      "page_name": "Billion Auto",
+      "ad_text": "",
+      "headline": "{{vehicle.title}}",
+      "cta": "",
+      "start_date": 1742540400,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "324764094266867",
+        "adArchiveID": "1000589081542754",
+        "startDateFormatted": "2025-03-21T07:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "1000589081542754",
+        "collationCount": null,
+        "collationId": null,
+        "pageId": "324764094266867",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "324764094266867",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/billionauto/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Billion Auto",
+          "pageProfilePictureUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/476948777_1200065388788311_219528127111750411_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XI2QvP3jsPAQ7kNvwFDFLGK&_nc_oc=AdrKI4Qy3BL8DQoERaTEOmoDzsLlGOMJaCsgtfW0bGYIsqeWUtz4-tVoAV8E5PPN6ek&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af4f87jdE8U64vxcloYvbeIqbSgIgrhxRZD70cdReyK7gA&oe=6A017BAD",
+          "event": null,
+          "caption": "billionauto.com",
+          "ctaText": "Shop now",
+          "cards": [
+            {
+              "body": "In the market for a pre-owned vehicle? Billion Automotive has competitive pricing and plenty of inventory in stock.",
+              "ctaType": "SHOP_NOW",
+              "caption": "billionauto.com",
+              "linkDescription": "Looking for a used vehicles, look no further than Billion Auto! We offer hundreds of used vehicles for sale, including Chevy, Ford, Nissan, Jeep, and more. We have dealerships in Sioux Falls, Rapid City, and Worthington SD, Sioux City and Iowa City, Iowa, and more. Visit today!",
+              "linkUrl": "https://www.billionauto.com/Used-2019-Jeep-Cherokee-1C4PJMLB3KD363758",
+              "title": "2019 Jeep Cherokee Altitude",
+              "ctaText": "Shop Now",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/478292789_1801238814029209_4535341502769719004_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EL6r5PVny_gQ7kNvwExSER4&_nc_oc=Adr5iwgk6MvMsiPW-hGqtNFzKbAtMhV-gibXXSrcr83ZO_s_PNqwxcVUUry0sDSQ_G4&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af6R8xYEUz3vcofNj6iSXyHMDQy_uF2uzCGSmR5ycJsHng&oe=6A019AA3",
+              "resizedImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/478292789_1801238814029209_4535341502769719004_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EL6r5PVny_gQ7kNvwExSER4&_nc_oc=Adr5iwgk6MvMsiPW-hGqtNFzKbAtMhV-gibXXSrcr83ZO_s_PNqwxcVUUry0sDSQ_G4&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af6ZmPK_ZmMFPEmWVWO7lTttA5YDdk2CuvBAvJZxGhRd_Q&oe=6A019AA3",
+              "watermarkedResizedImageUrl": ""
+            },
+            {
+              "body": "In the market for a pre-owned vehicle? Billion Automotive has competitive pricing and plenty of inventory in stock.",
+              "ctaType": "SHOP_NOW",
+              "caption": "billionauto.com",
+              "linkDescription": "Looking for a used vehicles, look no further than Billion Auto! We offer hundreds of used vehicles for sale, including Chevy, Ford, Nissan, Jeep, and more. We have dealerships in Sioux Falls, Rapid City, and Worthington SD, Sioux City and Iowa City, Iowa, and more. Visit today!",
+              "linkUrl": "https://www.billionauto.com/Used-2022-Ram-2500-3C6UR5TL6NG158928",
+              "title": "2022 Ram 2500 Limited",
+              "ctaText": "Shop Now",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/479329775_523989864048946_848857901001130830_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aX0AnJEWaVwQ7kNvwGZOpKB&_nc_oc=Ado3lfiytwp4heIP-sw22gydEeP1PnqmqRO_we5UvBtIMKwAAJ2DJKtT8D1ZNofmWdc&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af7YU8ciFtZ_xwpmrR6wse34_QQ3HUd-LHffyzCDlE7Gng&oe=6A016F9F",
+              "resizedImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/479329775_523989864048946_848857901001130830_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aX0AnJEWaVwQ7kNvwGZOpKB&_nc_oc=Ado3lfiytwp4heIP-sw22gydEeP1PnqmqRO_we5UvBtIMKwAAJ2DJKtT8D1ZNofmWdc&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af6kxulRWZALfAWqzeVMMGDQim4btJVffx6Ia-BDzfBNsg&oe=6A016F9F",
+              "watermarkedResizedImageUrl": ""
+            },
+            {
+              "body": "In the market for a pre-owned vehicle? Billion Automotive has competitive pricing and plenty of inventory in stock.",
+              "ctaType": "SHOP_NOW",
+              "caption": "billionauto.com",
+              "linkDescription": "Looking for a used vehicles, look no further than Billion Auto! We offer hundreds of used vehicles for sale, including Chevy, Ford, Nissan, Jeep, and more. We have dealerships in Sioux Falls, Rapid City, and Worthington SD, Sioux City and Iowa City, Iowa, and more. Visit today!",
+              "linkUrl": "https://www.billionauto.com/Used-2024-Ford-Edge-2FMPK4J94RBA79323",
+              "title": "2024 Ford Edge SEL",
+              "ctaText": "Shop Now",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/477482836_1186208019511973_8871751407109699979_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6mZCAEmG4sYQ7kNvwEQ4sJX&_nc_oc=AdrB1CkTXaDnqBhUzaiD6y1MDrV_5EqWxjDXFF1HqxXTE9hS5DD3BXhLiSgm1TQifP0&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af7aDGD2dPeYzDSmkL2L9DxFYiiCU2YagISbGvVFyPqYAg&oe=6A017C76",
+              "resizedImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/477482836_1186208019511973_8871751407109699979_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6mZCAEmG4sYQ7kNvwEQ4sJX&_nc_oc=AdrB1CkTXaDnqBhUzaiD6y1MDrV_5EqWxjDXFF1HqxXTE9hS5DD3BXhLiSgm1TQifP0&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af6biyNsl72iLkPhpfpzZ68PEhTOo2iCGkrHqRvTZkY1cg&oe=6A017C76",
+              "watermarkedResizedImageUrl": ""
+            },
+            {
+              "body": "In the market for a pre-owned vehicle? Billion Automotive has competitive pricing and plenty of inventory in stock.",
+              "ctaType": "SHOP_NOW",
+              "caption": "billionauto.com",
+              "linkDescription": "Looking for a used vehicles, look no further than Billion Auto! We offer hundreds of used vehicles for sale, including Chevy, Ford, Nissan, Jeep, and more. We have dealerships in Sioux Falls, Rapid City, and Worthington SD, Sioux City and Iowa City, Iowa, and more. Visit today!",
+              "linkUrl": "https://www.billionauto.com/Used-2018-Chevrolet-Tahoe-1GNSKCKC2JR275384",
+              "title": "2018 Chevrolet Tahoe Premier",
+              "ctaText": "Shop Now",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/476882109_453988784349394_7637483604327585881_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uk_IIbga0OgQ7kNvwF2769M&_nc_oc=AdoNJjITiNDmQLLwNz0OzwrutQ8pTGRRo9sPA_R6UzwAWw-HXCdIyn4vMR7oU3g6YU0&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af7X8LcOUj7uz0ZXwmIBg6ArgpbcbdO94YrcTaoCFDYLPg&oe=6A017492",
+              "resizedImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/476882109_453988784349394_7637483604327585881_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uk_IIbga0OgQ7kNvwF2769M&_nc_oc=AdoNJjITiNDmQLLwNz0OzwrutQ8pTGRRo9sPA_R6UzwAWw-HXCdIyn4vMR7oU3g6YU0&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af4Sw-LVgv7biwpsnbqVmndWRXN8vrcjhSmZtsFqgng3fQ&oe=6A017492",
+              "watermarkedResizedImageUrl": ""
+            },
+            {
+              "body": "In the market for a pre-owned vehicle? Billion Automotive has competitive pricing and plenty of inventory in stock.",
+              "ctaType": "SHOP_NOW",
+              "caption": "billionauto.com",
+              "linkDescription": "Looking for a used vehicles, look no further than Billion Auto! We offer hundreds of used vehicles for sale, including Chevy, Ford, Nissan, Jeep, and more. We have dealerships in Sioux Falls, Rapid City, and Worthington SD, Sioux City and Iowa City, Iowa, and more. Visit today!",
+              "linkUrl": "https://www.billionauto.com/Used-2019-Jeep-GrandCherokee-1C4RJFBG0KC814295",
+              "title": "2019 Jeep Grand Cherokee Limited",
+              "ctaText": "Shop Now",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/479308521_1285164432765372_7452848913073608105_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1rioUI2qItkQ7kNvwEQHsbK&_nc_oc=AdqCIA0dm7AgBCMkK3FnjO48G5-gllTIP-azqL1ga3E9P_Cb6JC4EzOEqSij3cyNNVI&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af4IkJqNaPS_lxGAJFcVWYX_hVjtbyYlO5wj41tHscXCpg&oe=6A018723",
+              "resizedImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/479308521_1285164432765372_7452848913073608105_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1rioUI2qItkQ7kNvwEQHsbK&_nc_oc=AdqCIA0dm7AgBCMkK3FnjO48G5-gllTIP-azqL1ga3E9P_Cb6JC4EzOEqSij3cyNNVI&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af6UmINkG1s3sKncjhQN37xjF_ibdglEc8ZohKuBelN_6g&oe=6A018723",
+              "watermarkedResizedImageUrl": ""
+            },
+            {
+              "body": "In the market for a pre-owned vehicle? Billion Automotive has competitive pricing and plenty of inventory in stock.",
+              "ctaType": "SHOP_NOW",
+              "caption": "billionauto.com",
+              "linkDescription": "Looking for a used vehicles, look no further than Billion Auto! We offer hundreds of used vehicles for sale, including Chevy, Ford, Nissan, Jeep, and more. We have dealerships in Sioux Falls, Rapid City, and Worthington SD, Sioux City and Iowa City, Iowa, and more. Visit today!",
+              "linkUrl": "https://www.billionauto.com/Used-2022-Chevrolet-Silverado1500LTD-3GCPYDEK6NG145829",
+              "title": "2022 Chevrolet Silverado 1500 Limited LT",
+              "ctaText": "Shop Now",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/479040568_1302471737747060_6310052765118071578_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6WJONxsJ9zQQ7kNvwGwfsyV&_nc_oc=AdoCIvpXjER57sXRA_3DjBqsKZ8bX6KdV6upCrcAJg_KGuhVigRi4cvbrU0FgyRzoWw&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af5wNSamjoT_kO7f2V3aUXZgy0uYu3erk0-cQAXNpM0Nfw&oe=6A018AD7",
+              "resizedImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/479040568_1302471737747060_6310052765118071578_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6WJONxsJ9zQQ7kNvwGwfsyV&_nc_oc=AdoCIvpXjER57sXRA_3DjBqsKZ8bX6KdV6upCrcAJg_KGuhVigRi4cvbrU0FgyRzoWw&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af4ZeaQQ12fctyq5XnGMlvQ6oKun_-iZkFU9jd37KLxpfQ&oe=6A018AD7",
+              "watermarkedResizedImageUrl": ""
+            }
+          ],
+          "body": {
+            "text": "In the market for a pre-owned vehicle? Billion Automotive has competitive pricing and plenty of inventory in stock."
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "DPA",
+          "linkDescription": null,
+          "linkUrl": "https://www.billionauto.com/used-vehicles-for-sale",
+          "images": [],
+          "pageCategories": [
+            "Motor vehicle company"
+          ],
+          "pageLikeCount": 11132,
+          "title": "{{vehicle.title}}",
+          "videos": [],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Billion Auto",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "CREDIT"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "startDate": 1742540400,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "1233372785282864",
+      "page_name": "RYZE Superfoods",
+      "ad_text": "",
+      "headline": "Pour Yourself a Better Cup of Coffee ☕️",
+      "cta": "",
+      "start_date": 1777273200,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "107940537227344",
+        "adArchiveID": "1233372785282864",
+        "startDateFormatted": "2026-04-27T07:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "1233372785282864",
+        "collationCount": null,
+        "collationId": null,
+        "pageId": "107940537227344",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "107940537227344",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/ryzesuperfoods/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "RYZE Superfoods",
+          "pageProfilePictureUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/679124768_1258247553149055_123394290361379276_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vbsTpwWqnIAQ7kNvwGKs2uV&_nc_oc=AdpY_YPiqnrPnrqaMuXTCwei2wxec238rf5U8AmAqeGjVuLhVB28CCfDSGMTaKmTEMs&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af4llrjRxs76UZZz7Unhxw0JATWEVLATpQDJtXjdUpVRmw&oe=6A0182C1",
+          "event": null,
+          "caption": "shop.ryzesuperfoods.com",
+          "ctaText": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "RYZE is powered by functional mushrooms and adaptogens. Our creamy and delicious blend features six functional mushrooms, prebiotics, zero added sugar and 100% organic or non-GMO ingredients. These clean, no BS ingredients come to you sustainably from right here in the USA to provide game-changing daily immune support and long-lasting energy in every cup. Just add water for easy prep and on-the-go wellness.\n\nTry now ➡️ https://shop.ryzesuperfoods.com/fb"
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "VIDEO",
+          "linkDescription": null,
+          "linkUrl": "https://shop.ryzesuperfoods.com/fb",
+          "images": [],
+          "pageCategories": [
+            "Product/service"
+          ],
+          "pageLikeCount": 527077,
+          "title": "Pour Yourself a Better Cup of Coffee ☕️",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNVwuTjyIViz65TEw7Z5Ust5aFSXHyuTOFBDruv1SoNAunweo2Mqh-c9OAd68iK3Oukz9GSrNVFVkJnfxGGkhs_Vg6dz4DNUGLqPQuHu640zg.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=49djzJdNHSQQ7kNvwHEQJqJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg5NTkzMDAzMzQ5Njk5MiwiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6OTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7d72ea4424546e9b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQjRFM0UyNEQwOTQ5NTc0QTlGMEU2QzA2MDRFQ0M5M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VDNEQ4Q0MzOUY3MTk5OTI0NkQzMkI3MThEMEVERUE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbAjp_2_rWXAxUCKAJDMywXQFhGZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af62rx7WocYrt8GyDU04ZK1wbguW8xJwdN6NJ9Njq6sJ_Q&oe=6A018B62",
+              "videoPreviewImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/679356547_1527120758842149_4114187143707464900_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=clxp_0TVsmMQ7kNvwEIsTod&_nc_oc=Adoo9Wa5DpuONeusQS2Q_ADUQdi9BUFZ4L40X2u96h5fWlzwzsMVBRf3TJNpZKU_JIk&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af7VinmQEHe7ueiVYit6NWVxoFPrCop62eDx8zHh997-QQ&oe=6A018C93",
+              "videoSdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPZ78QUjnER3O_DiHRuiS2YXr64qePenpHyhsReo9KNf7EHgCaaehluHdLF4Sfcy44lefm1KX4YST8BvEqMAwFYjlIuIlhPrhqZCdTaOQ.mp4?_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=FzGXORXL5L0Q7kNvwHeY7oM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODk1OTMwMDMzNDk2OTkyLCJhc3NldF9hZ2VfZGF5cyI6MTEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo5NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af7n6eyb6KABp68RW_t51yZ9Vhb4k-klWViG_Qiz_3Buaw&oe=6A01747E",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "RYZE Superfoods",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "startDate": 1777273200,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "1861288661412541",
+      "page_name": "Chef Preserve",
+      "ad_text": "",
+      "headline": "Chef Preserve Vacuum Sealer",
+      "cta": "",
+      "start_date": 1759734000,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "154391267767187",
+        "adArchiveID": "1861288661412541",
+        "startDateFormatted": "2025-10-06T07:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "1861288661412541",
+        "collationCount": null,
+        "collationId": "1478783583027144",
+        "pageId": "154391267767187",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "154391267767187",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/chefpreserve/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Chef Preserve",
+          "pageProfilePictureUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/454380985_1534915493776587_9091540205215267119_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pvciubt8UpcQ7kNvwFTOND6&_nc_oc=AdpUDf5p0uRe76-pJpR8u16viSkWQN1Vc8qiFwNthU0_l8awLttaQ-PtBOEA9TnLSEE&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af5vZyyan44_Rv4cWZh0xJby4r_SMDBOA9aBYZ8UjrexHw&oe=6A016936",
+          "event": null,
+          "caption": "www.chefpreserve.com",
+          "ctaText": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "✅ Quick, Compact & Easy to Use\n\n✅ Reduce Waste & Save Money\n\n✅ Never Worry About Spoilage\n\n➡️  chefpreserve.com"
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "VIDEO",
+          "linkDescription": null,
+          "linkUrl": "http://www.chefpreserve.com/",
+          "images": [],
+          "pageCategories": [
+            "Brand"
+          ],
+          "pageLikeCount": 22501,
+          "title": "Chef Preserve Vacuum Sealer",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMZDXAUlXgG2Zu1QudP0zP1d1aKLyf-0cMj0VhI08NQWy-okbFHeqE-ePoZPVH60C9tZu7y5ezDvLUq1sM_Fssr.mp4?strext=1&_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=h-6KRBXjR-gQ7kNvwHwOsC5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo4NDQ1NjkyNTE4MDg1NTIsImFzc2V0X2FnZV9kYXlzIjoxMzksInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjo5NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af4mTa0_uwV_spjWi0O80h1SyjzSOr2TA9W_VOax989qSA&oe=6A019407",
+              "videoPreviewImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/454496869_524978606762999_5506716764892298311_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HKF-sX4srtAQ7kNvwG7v-0-&_nc_oc=Adp1rWs_wauktWT64EJPxD06z7JsHWn5ORhgVm-zu-lLSb3vlr1sXc-wbzMceYJVjvM&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af44B0GlTJy23C4g-oc4f3UEJEF4wRlcs_q2KRqJlb-LGw&oe=6A016BEE",
+              "videoSdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQPehIfN0NC5pck8bLL3pEXRL8F8Zg_I3731h69sSvrnxE_j65VbfcihctD4j91SW41YdrdGw2s2RiCS6R94lxUt.mp4?strext=1&_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=AUu0xL6C_WgQ7kNvwE-tuoV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLmFzaWNfaHExX3NkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo4NDQ1NjkyNTE4MDg1NTIsImFzc2V0X2FnZV9kYXlzIjoxMzksInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjo5NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af6V9WGnttc-zIYt4N-KKhQsICNaIPeU1x93_C7RbnRj1A&oe=6A018578",
+              "watermarkedVideoHdUrl": "",
+              "watermarkedVideoSdUrl": ""
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Chef Preserve",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "startDate": 1759734000,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "1212762357493991",
+      "page_name": "Investor's Business Daily",
+      "ad_text": "",
+      "headline": "{{product.name}}",
+      "cta": "",
+      "start_date": 1767686400,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "18107421115",
+        "adArchiveID": "1212762357493991",
+        "startDateFormatted": "2026-01-06T08:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "1212762357493991",
+        "collationCount": null,
+        "collationId": "1531061475404539",
+        "pageId": "18107421115",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "18107421115",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/investorsbusinessdaily/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Investor's Business Daily",
+          "pageProfilePictureUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/611112575_1407535134291852_4586847070596120451_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GcTINcqLT2MQ7kNvwEV3Mf6&_nc_oc=Adrgp-YK318vgGkxkj-H5JZBPZ06kef9G1uXnT42_KyUMuRGuNQrxBWPf_CXHSrbxy4&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af7xYhKhnqMwWmGZaq2vAYQzmK_BL0yEq6SnCijI6bfF_w&oe=6A019919",
+          "event": null,
+          "caption": "get.investors.com",
+          "ctaText": "Learn more",
+          "cards": [
+            {
+              "body": "The market moves fast. IBD helps you stay ahead with expert insights and data-driven analysis that build your confidence.",
+              "ctaType": "LEARN_MORE",
+              "caption": "",
+              "linkDescription": "Get Started",
+              "linkUrl": "https://get.investors.com/?src=A00705&trackingCode=a5ce76ee&utm_source=Facebook&utm_medium=Paid&utm_campaign=EVERGREEN&utm_id=EGUF102225V1",
+              "title": "Your Edge Starts with IBD",
+              "ctaText": "Learn More",
+              "videoHdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO9781x7qbfUtam2jNz4bnSm5ZHbReglskgmDMz3iwQi3yTdLLOO94lOdUxcNFsz01kTRVWoqGxfCVFHl1WGzbzTC9ogjBfU96h-JUxj2aitQ.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=tUMnE6E3g7UQ7kNvwEQ9dum&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTEyMzk3OTczMDA5NTcsImFzc2V0X2FnZV9kYXlzIjoxMjEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b9c3745bc9ef5213&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9GQTQ0QUU3N0ExRTM0MzRFRjdBNEUyODkyQjhGMkU4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6-_zs--CBBRUCKAJDMywXQCIAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af6Ec2Rp2mmuj3e_eCiHJ5WLiGnCR9v9x_4328EdSdILdg&oe=6A016F0E",
+              "videoPreviewImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/611371012_1667854354176094_1578002653596621397_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v0pFtkexJE8Q7kNvwFOOw8B&_nc_oc=AdoueaYx5h7NbNMaqWZCyRPt18iOS2AO53_bBMrEycYZNAn21OADajWbgYe5yYJH5yQ&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af5hAC-BM2ifsC9yXWwrqPWyYgZoiK0Eo-zT2H-u-F7OHA&oe=6A017DDC",
+              "videoSdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNvGbgJsKD6dPXwTrlyI9Jd6hWgaPDxTlv2ZxwvT8siJU76CfapFen7yBSJZ-8vK0AnXrOa--q6RG22C3-uTaGP4bMTTt02HYRcpXwvMQ.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=fU8Jv4M2oWoQ7kNvwGAGs-2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQxMTIzOTc5NzMwMDk1NywiYXNzZXRfYWdlX2RheXMiOjEyMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af7W0MWvX_fgomZelXSnOVmfyV6r2HU8TYDSoS2awQUxsg&oe=6A017DEC",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            },
+            {
+              "body": "The market moves fast. IBD helps you stay ahead with expert insights and data-driven analysis that build your confidence.",
+              "ctaType": "LEARN_MORE",
+              "caption": "",
+              "linkDescription": "Get Started",
+              "linkUrl": "https://get.investors.com/?src=A00705&trackingCode=a5ce76ee&utm_source=Facebook&utm_medium=Paid&utm_campaign=EVERGREEN&utm_id=EGUF102225V1",
+              "title": "Your Edge Starts with IBD",
+              "ctaText": "Learn More",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/612070095_1732743584366036_584988455664366982_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cuD7Yw_zEgEQ7kNvwGUXo5P&_nc_oc=Adr5zy7tHoXHc-836AqAG6YOXZ0AggrKehRfn0JWH4Ul0L_WYNJeME8RONdHev5JsYM&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af4hJUFDLH16PhIVpxGQ6vqlRQD9jZ7Aa2mUSlGGXrv3EA&oe=6A01806C",
+              "resizedImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/611661913_1592668405074341_715502523932575851_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6IBA6C4RYJoQ7kNvwH_vIqj&_nc_oc=Ado7I5UOxURg0Z-7od8GjHnECIlbGlYlJUmFI5hKtBSb6eihLiY2SlU8kTOIdO5RtEU&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af4i_kIUW8LhpCcHmVF6UROjvYQdamJyXnIEWu90WHTSYw&oe=6A018737",
+              "watermarkedResizedImageUrl": ""
+            },
+            {
+              "body": "The market moves fast. IBD helps you stay ahead with expert insights and data-driven analysis that build your confidence.",
+              "ctaType": "LEARN_MORE",
+              "caption": "",
+              "linkDescription": "Get Started",
+              "linkUrl": "https://get.investors.com/?src=A00705&trackingCode=a5ce76ee&utm_source=Facebook&utm_medium=Paid&utm_campaign=EVERGREEN&utm_id=EGUF102225V1",
+              "title": "Your Edge Starts with IBD",
+              "ctaText": "Learn More",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/612265366_1225201656239152_2017534286644740130_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RXydPQ4EZToQ7kNvwE5LZTo&_nc_oc=AdoZchFWCZOjJl69X1yAK0_U3tskMwYS79pXqxVPwp7vSx_S8NszfaY-aIB5x3crmg8&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af6_XNaPnl27mFWKAi6pBmUVd8wsLlQhedOAs6vexldLTQ&oe=6A018958",
+              "resizedImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/608170247_801971936189498_2408228586263291638_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZWYQSCV9htEQ7kNvwG29-L7&_nc_oc=AdoBxpNQUrjvQJPbv_MEaFoeAqLYwiFtw8jEgibAKy6KvtEOALN_Mnd9ZuCxg8Rcpnk&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af5Ffcjci0WV5Slcoa_0ZKhps5R8LZUWAXy-9qZu-Pq0Mg&oe=6A016E83",
+              "watermarkedResizedImageUrl": ""
+            },
+            {
+              "body": "The market moves fast. IBD helps you stay ahead with expert insights and data-driven analysis that build your confidence.",
+              "ctaType": "LEARN_MORE",
+              "caption": "",
+              "linkDescription": "Get Started",
+              "linkUrl": "https://get.investors.com/?src=A00705&trackingCode=a5ce76ee&utm_source=Facebook&utm_medium=Paid&utm_campaign=EVERGREEN&utm_id=EGUF102225V1",
+              "title": "Your Edge Starts with IBD",
+              "ctaText": "Learn More",
+              "videoHdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO9781x7qbfUtam2jNz4bnSm5ZHbReglskgmDMz3iwQi3yTdLLOO94lOdUxcNFsz01kTRVWoqGxfCVFHl1WGzbzTC9ogjBfU96h-JUxj2aitQ.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=tUMnE6E3g7UQ7kNvwEQ9dum&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTEyMzk3OTczMDA5NTcsImFzc2V0X2FnZV9kYXlzIjoxMjEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b9c3745bc9ef5213&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9GQTQ0QUU3N0ExRTM0MzRFRjdBNEUyODkyQjhGMkU4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6-_zs--CBBRUCKAJDMywXQCIAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af6Ec2Rp2mmuj3e_eCiHJ5WLiGnCR9v9x_4328EdSdILdg&oe=6A016F0E",
+              "videoPreviewImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/611371012_1667854354176094_1578002653596621397_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v0pFtkexJE8Q7kNvwFOOw8B&_nc_oc=AdoueaYx5h7NbNMaqWZCyRPt18iOS2AO53_bBMrEycYZNAn21OADajWbgYe5yYJH5yQ&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af5hAC-BM2ifsC9yXWwrqPWyYgZoiK0Eo-zT2H-u-F7OHA&oe=6A017DDC",
+              "videoSdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNvGbgJsKD6dPXwTrlyI9Jd6hWgaPDxTlv2ZxwvT8siJU76CfapFen7yBSJZ-8vK0AnXrOa--q6RG22C3-uTaGP4bMTTt02HYRcpXwvMQ.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=fU8Jv4M2oWoQ7kNvwGAGs-2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQxMTIzOTc5NzMwMDk1NywiYXNzZXRfYWdlX2RheXMiOjEyMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af7W0MWvX_fgomZelXSnOVmfyV6r2HU8TYDSoS2awQUxsg&oe=6A017DEC",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/611848399_899253909310839_1025729765206324174_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qfz1WtcgjuIQ7kNvwEkD8IN&_nc_oc=Adp2RS3LZqBS53zicTs1_TR4M4AXXVpBbp7YKx-PaMDEwqdY769QyIUsfxAe8crGjlI&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af6zMGFgvJb_EV9_um4jIW83i-si1Czku0E8UPTz1ZdYFQ&oe=6A01931B",
+              "resizedImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/611298003_879483464590474_1904692153067636606_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IlxeCPgE0hwQ7kNvwHBxnIq&_nc_oc=Adoz9QJKFznxZVemDezzKshfiv-IS-5ZeJ8Rdt-zTO3QNyOmR2WTH-y8ljN-dugs71c&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af4Vlyb7TOt1XdDUO24DKJA4olO1PM0oTr33d1D5XDqM4Q&oe=6A018788",
+              "watermarkedResizedImageUrl": ""
+            }
+          ],
+          "body": {
+            "text": "{{product.brand}}"
+          },
+          "ctaType": "LEARN_MORE",
+          "displayFormat": "DCO",
+          "linkDescription": "{{product.description}}",
+          "linkUrl": "https://get.investors.com/?src=A00705&trackingCode=a5ce76ee&utm_source=Facebook&utm_medium=Paid&utm_campaign=EVERGREEN&utm_id=EGUF102225V1",
+          "images": [],
+          "pageCategories": [
+            "Media/news company"
+          ],
+          "pageLikeCount": 2931728,
+          "title": "{{product.name}}",
+          "videos": [],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Investor's Business Daily",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "CREDIT"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "startDate": 1767686400,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "909758434723075",
+      "page_name": "Nuora",
+      "ad_text": "",
+      "headline": "70,000+ Ladies Love Nuora",
+      "cta": "",
+      "start_date": 1767859200,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "358372987360561",
+        "adArchiveID": "909758434723075",
+        "startDateFormatted": "2026-01-08T08:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "909758434723075",
+        "collationCount": null,
+        "collationId": "1482868953838861",
+        "pageId": "358372987360561",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "358372987360561",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/61561992159441/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Nuora",
+          "pageProfilePictureUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/612980380_1847753739219522_3495567928276295780_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tut3epxSL4EQ7kNvwHKjGPn&_nc_oc=Adpskoj1g2GmV0tXZwW69cCUfEgT7jOk-BJj0eXNPW2j3yVRL1p80e7dGv9_s1yKozk&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af60MfTR_lNKcIlnIUxcsRGZyuwR5R685A84PAW7CEPK-w&oe=6A017FB8",
+          "event": null,
+          "caption": "mynuora.com",
+          "ctaText": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "Most stuff on the market does a bad job of working on the root cause of our vaginal struggles… \n\nThat’s why most of the things you see are for a pure sake of marketing.\n\nThat’s why we spent past 2 years creating Nuora! And thank you for tens of thousands of reviews we are getting recently.\n\nWhat are the benefits? Here’s what Nuora may do:\n\n🎯 Fix odor in 48 hours \n🎯 Take care of the discharge\n🎯 Fight yeast infections\n🎯 Make intimacy confident again \n🎯 Keep you fresh during periods \n🎯 Work where 91.34% of probiotics fail\n\nLast restock sold out in 72 hours. \n\nThis one's moving even faster.\n\nGrab yours while you can: \nhttps://mynuora.com/products/feminine-balance-gummies-1\n\nP.S. Remember: 60-day guarantee. Love it or it's free."
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "VIDEO",
+          "linkDescription": "⭐️⭐️⭐️⭐️⭐️Excellent 4.87/5",
+          "linkUrl": "https://mynuora.com/products/feminine-balance-gummies-1",
+          "images": [],
+          "pageCategories": [
+            "Shopping Mall"
+          ],
+          "pageLikeCount": 11165,
+          "title": "70,000+ Ladies Love Nuora",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMk0ONUudcCa2kcjbTzwVYn_yr566JzzZs0zqfI8eAMYQ-vYjFj4Rx4ks8IfgQU0dU-34SRKbdNVyqZkmXKwdpGNWusVwTJbEha580VeLZ0CA.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=1uJqJBfORs8Q7kNvwGM47Av&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk0MDY5NjM0NDk3MTg5MCwiYXNzZXRfYWdlX2RheXMiOjExOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjYwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=51fca67021d6a9a6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNzRCNkY4MzA0RTI2MTFBMkJENjE1RUFBMjBCQzU5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I2NDJGNTcwQTI3QTVDMzU4QzUzNzNDQkYwMzA2RjkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbkqd733eOrAxUCKAJDMywXQE564UeuFHsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af7LnWJZQcPgQ07m2xl9CSOvYgJMC7NRoi9VV2yyo_jq9g&oe=6A01868E",
+              "videoPreviewImageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t39.35426-6/612623168_1438147971000867_7732723584311343091_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_aid=0&_nc_ohc=EciozP7Phk0Q7kNvwFoIX6b&_nc_oc=Adrah1IZ2jIywENAYDJNVgM2bcV8DeowwuV5Pvg0-oYNnVEhnYccdIswewtJcSFD4-Q&_nc_zt=14&_nc_ht=scontent-den2-1.xx&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&oh=00_Af7jl9DO0t-Wbv86Uy0ffcIW78cpIryo3Ncgpy5OrH0WmQ&oe=6A018EC7",
+              "videoSdUrl": "https://video-den2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN9OAIGT2j-qb-_ioJHMNYWfcYiO-0WgEOKR2u0jxjb9URzSSy7h79k0a-6_E38A6ucJ5QwrgiGmHJJaKBqGZZ0wIB9Ys16vtOB4tEAhQ.mp4?_nc_cat=100&_nc_sid=8bf8fe&_nc_ht=video-den2-1.xx.fbcdn.net&_nc_ohc=RNzuWfP0QGkQ7kNvwFqwU4E&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTQwNjk2MzQ0OTcxODkwLCJhc3NldF9hZ2VfZGF5cyI6MTE4LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QVSeX4xy535zo0_6zHHiGw&_nc_ss=7c289&_nc_zt=28&oh=00_Af6qQomOV5flVz65CY_f5LjHk0AYyo6Lu2bd51bYJkY0Ew&oe=6A019846",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Nuora",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "startDate": 1767859200,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "1427865335622275",
+      "page_name": "Your Health Journal",
+      "ad_text": "",
+      "headline": "Best Walking Shoe 2026!",
+      "cta": "",
+      "start_date": 1770192000,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "104155625600453",
+        "adArchiveID": "1427865335622275",
+        "startDateFormatted": "2026-02-04T08:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "1427865335622275",
+        "collationCount": 3,
+        "collationId": "1981513296061423",
+        "pageId": "104155625600453",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "104155625600453",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/100086476661474/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Your Health Journal",
+          "pageProfilePictureUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/625779374_2020786368782996_2691511682200254323_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IikATvXQb_YQ7kNvwGN7qBM&_nc_oc=AdpfIhUsBHRhr8tdw3m14IldQQoEuP_a5dPqjLU3tgNXoGY2K_LxgyG9hWAQVM6NFng&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af4J5FMIiftSQ6OvH1Jyd0mRl1UcVWAy1o-I8-ORf14yIA&oe=6A01995A",
+          "event": null,
+          "caption": "offers.hike-footwear.com",
+          "ctaText": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "“I’ve never stepped into a shoe this easily—no bending, no fumbling. HF Stride’s Hands-Off Entry is a game-changer!” – Maria, 58\n \nExperience the all-new HF Stride:\n  Zero-drop support for natural alignment\n  Wide toe box that lets your toes move freely\n  Ultra-flexible knit that moves with you, not against you\n \nThe first barefoot shoe made for hands-off living.\n \nStep into effortless comfort and stride pain-free all day.\n \nFree delivery!\nhttps://offers.hike-footwear.com/l/li05"
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "VIDEO",
+          "linkDescription": null,
+          "linkUrl": "https://offers.hike-footwear.com/l/li05",
+          "images": [],
+          "pageCategories": [
+            "Clothing",
+            "Medical Service"
+          ],
+          "pageLikeCount": 13003,
+          "title": "Best Walking Shoe 2026!",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOGYjyhPRYUl4Uhn9K1Yr4cb7QzAld6xpgzdxVGKEQ-0RFgZmz46f-F81gJCBcCz76dTKGH28nevuAQCwYMF907Hr2VdbsTe_VL24DkViJjcQ.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=3JLqF3JOA2kQ7kNvwG1myZx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNDU3OTk3NzQxMzMwMjAsImFzc2V0X2FnZV9kYXlzIjo5MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6bec047b928a7e4d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNDQ0NEQzQjY4OEExNTIzREU0NERENDk2RTkwMUE5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q2NEVBNTQzNEU3MTE2QTgyNEI2MDk2MjIwMTFFOEI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa47PzPi8O2BBUCKAJDMywXQHABQ5WBBiUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af6nu0_abse1J5ytrNBhmx7JWOIcQGSvyvR2H4H57_d_Ag&oe=6A017F4F",
+              "videoPreviewImageUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/625767382_2400508213740390_662154520524033465_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kDJ_4BjQDDkQ7kNvwFG2Unu&_nc_oc=AdpwvJvO1_qtsoqnzFDArI9Isn9z_Ni7QtIi41pwNO9MUG1YgCdVqdoIH0RbCNHpHuc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af6MnM6D54RB7u6zZb8qmlx9XQ_nKAQ9qY4QrxdYZV6ziA&oe=6A01891A",
+              "videoSdUrl": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO04eBe3WpT1RWCw-kLjI4wAJE2YwW8AyWkSb9Bi3JQWar5PBM3eGBClBTUPgxqMZYCT01E39u-tfKXoWMa-O1P-lIs6wErym597JIS7g.mp4?_nc_cat=105&_nc_sid=8bf8fe&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=z-GFtS5UgOwQ7kNvwFMuPha&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI0NTc5OTc3NDEzMzAyMCwiYXNzZXRfYWdlX2RheXMiOjkyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjU2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af5LEZRZ0tUJ3Nc-Ur7xKF1b3P0WupAHu8X6xfh2rLetDQ&oe=6A018D6D",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Your Health Journal",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "startDate": 1770192000,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "983994973871690",
+      "page_name": "coofandy.shop",
+      "ad_text": "",
+      "headline": "💯100%Premium Cotton",
+      "cta": "",
+      "start_date": 1743577200,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "124481524079650",
+        "adArchiveID": "983994973871690",
+        "startDateFormatted": "2025-04-02T07:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "983994973871690",
+        "collationCount": 2,
+        "collationId": "674379961635979",
+        "pageId": "124481524079650",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "124481524079650",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/coofandy.shop/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "coofandy.shop",
+          "pageProfilePictureUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/487505445_1358892098752471_755670236246182194_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KxJvG8oTJ0oQ7kNvwHn0l5Z&_nc_oc=AdpC-Ve3cDlxR74cDowDkThiNKDDciDaE8mtbTMujRBlcGPDmVgejL59g9-QyJ2m6ok&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af5PhnFxZvOhKf9DOzTcYvLB0DAq6atdj7BhAj_p-_T_vg&oe=6A01846A",
+          "event": null,
+          "caption": "coofandy.com",
+          "ctaText": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "✅1lakh+ Customers Loved our Sports Set!\nDaily Wear & Outdoor Casual Essential⚡🔥\n✨Buy now and stay stylish all year round!❤"
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "VIDEO",
+          "linkDescription": "All are in stock. It's time to order.",
+          "linkUrl": "https://coofandy.com/products/coofandy-casual-loose-fit-solid-sports-sets",
+          "images": [],
+          "pageCategories": [
+            "Website"
+          ],
+          "pageLikeCount": 37870,
+          "title": "💯100%Premium Cotton",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPaLHvK0armx7r3GJM_eUP4bXpqgzR3XJrksEYINx_P8fdum8NgzQmNDRCK-tFaHKCUdwc46acobc2KrOR0IzN2cvGmTfRlhwYtdUunqXr6yA.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=_pPGY3PsqL8Q7kNvwEHb3lY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTc5NzU0Mjg0ODgxMjYsImFzc2V0X2FnZV9kYXlzIjozOTksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=780411b79a1fbb5c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRTQwNzEyQzM4QjUxNzZCQzc0QTJGNjdBNjJEOUVCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJdUNfQnhsdkkxWHNRVUZBRkI0cTdjRVJ0dFpidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb87oLP0befBhUCKAJDMywXQEad0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af7JuHL2p0uKj9TZotJ-LsxR-e13lR3MA2Akp7xilTKuaA&oe=6A019804",
+              "videoPreviewImageUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/488461504_1445730576408554_9061781956264917724_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IE06qEyKX-YQ7kNvwFpNMxW&_nc_oc=Adrk-03qpgQKRmZoYxMB9AY5NkTJ-VlWxr2xQGLYGxfUIVB2jWfMq1Ro-9x1-TWanvA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af6mSl2O8306pInMk4A6TOViDNMXPji_iPsLBbj_fS8MEw&oe=6A016F9E",
+              "videoSdUrl": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQNhFB6gbpjdGtxaIZtV7iOiiJ66w0vO-erjzunzOjOGc3QjyCSK_hwPSTEl25Agp9E9QBXvBj2XUcwzh-X-X669.mp4?strext=1&_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=Hd2Pk75sj94Q7kNvwH25IX_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc1Nzk3NTQyODQ4ODEyNiwiYXNzZXRfYWdlX2RheXMiOjM5OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af4wIiJ9DlKV_aYt4gO-qUWUp45gyySESm9shJ4n2yYtNQ&oe=6A01916F",
+              "watermarkedVideoHdUrl": "",
+              "watermarkedVideoSdUrl": ""
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "coofandy.shop",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": true,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "startDate": 1743577200,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "4526904094296991",
+      "page_name": "Based Supplies",
+      "ad_text": "",
+      "headline": "Restore Your Skin in 3 Weeks!",
+      "cta": "",
+      "start_date": 1773644400,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "161067203973094",
+        "adArchiveID": "4526904094296991",
+        "startDateFormatted": "2026-03-16T07:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "4526904094296991",
+        "collationCount": null,
+        "collationId": null,
+        "pageId": "161067203973094",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "161067203973094",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/100095526962088/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Based Supplies",
+          "pageProfilePictureUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/646849198_2449273235508358_5122686616630464972_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g2FxBaGbo9EQ7kNvwH0nhKe&_nc_oc=AdrEhAVNE6NbqJPj3i-HuMG0fI30476qIGA82c_GLepPStoP9faUdXskglc-lQ0irRg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af7RKX8IxeuiWLqCsRSWqqhkn6TitaohAvfnWyy_Zb82JA&oe=6A01948E",
+          "event": null,
+          "caption": "www.basedsupplies.com",
+          "ctaText": "Learn more",
+          "cards": [],
+          "body": {
+            "text": "Most bathroom counters look like a chemistry lab. Dozens of products, zero results.\n\nHere's what the beauty industry won't tell you: beef tallow + raw honey can fix what 12 products can't. Tallow is bioidentical to skin's natural oils - instead of sitting on top creating a film, it absorbs completely and repairs from within.\n\nFor anyone who's exhausted from trying everything with nothing to show for it, the answer might be to try almost nothing.\n\nGet your jar today and finally see yourself in the mirror again. 30-day money-back guarantee because we know it works! 🐄"
+          },
+          "ctaType": "LEARN_MORE",
+          "displayFormat": "VIDEO",
+          "linkDescription": "LIMITED STOCK LEFT!",
+          "linkUrl": "https://www.basedsupplies.com/pages/skincare-5?utm_source=facebook&utm_medium=social&utm_campaign={{campaign.name}}&utm_term={{adset.name}}&utm_content={{ad.name}}",
+          "images": [],
+          "pageCategories": [
+            "Community"
+          ],
+          "pageLikeCount": 36639,
+          "title": "Restore Your Skin in 3 Weeks!",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPqxHflF1UIDTAEsUGScLFjplkQg7xeLFRd-hhpmDdQe6k4_LwXOmVOX8O_k1Gy9HtzTonyudG6rXc1XKsNGMBdrIHcIh8m0VwqZuR4QMBjLA.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=dCA05PM__aMQ7kNvwEghbBl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMjc5NTc4NDQ2MDI0NzIsImFzc2V0X2FnZV9kYXlzIjo2MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b819752cc32d4419&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMTQ3QTFEREE4MDg5MDgzOTI0MEU2NEY3Njk5RTFCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY2NEQ0MjdBRDhEQTdGMTNBRkU1OUE5N0M2OUQxMjg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQuZOv15qaBxUCKAJDMywXQGPpWBBiTdMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af58aAKYUJ5TBA7ymgctPO_BnPokisysp_pK0ZMAhtt0JQ&oe=6A016F12",
+              "videoPreviewImageUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/646715926_2140817660025553_1788881650341156216_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QLRjz6hRnzEQ7kNvwFkBTXT&_nc_oc=Ado-FkExB0KBFFv7ef7o0-fYIou8ouIdkkiIGpGhsKui6HN-5TS2v8BpxH9dP9s-Bzs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af71GaLJtHvdbZN4WeHV9UYuODfOe-PrXMMiP8-PrZwF9Q&oe=6A0184F9",
+              "videoSdUrl": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPYK8ikjhF_s8086fC1u5G-bNq33HEBWxi_PV4R8Mr9iU3E8JBH9st7CoDhmDaYbMie0f9rAi1f8JY4df4kTuTS6m__KgwoFx6WopK-3A.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=ZreuZd-Wm4sQ7kNvwFLeRhW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjAyNzk1Nzg0NDYwMjQ3MiwiYXNzZXRfYWdlX2RheXMiOjYzLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af6fPwqs7bNkdaOliOvB37ADOp-QvXi88Canza0lTE9OGg&oe=6A016501",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Based Supplies",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "startDate": 1773644400,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "799992642636867",
+      "page_name": "Chef Preserve",
+      "ad_text": "",
+      "headline": "Chef Preserve Compact Vacuum Sealer",
+      "cta": "",
+      "start_date": 1759734000,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "154391267767187",
+        "adArchiveID": "799992642636867",
+        "startDateFormatted": "2025-10-06T07:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "799992642636867",
+        "collationCount": 1,
+        "collationId": "611037178623042",
+        "pageId": "154391267767187",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "154391267767187",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/chefpreserve/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Chef Preserve",
+          "pageProfilePictureUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/494555550_1863190257834462_4540111008418360642_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9RXMOWk9K5EQ7kNvwHMkka3&_nc_oc=AdpE94GTujZLOv6pfPWjd1ekMFW9nyu2vm-ULYIgaau9jzNuYqSzxcoxTD3yePxuw1s&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af6wZbB9MgmxquqlvQVbKJmbRUWmDl5Qb3-EAPuKZ6sOaQ&oe=6A0194A5",
+          "event": null,
+          "caption": "chefpreserve.com",
+          "ctaText": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "✅ Quick, Compact & Easy to Use\n\n✅ Reduce Waste & Save Money\n\n✅ Never Worry About Spoilage\n\n➡️  chefpreserve.com/products/vs"
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "VIDEO",
+          "linkDescription": null,
+          "linkUrl": "https://chefpreserve.com/products/vs",
+          "images": [],
+          "pageCategories": [
+            "Brand"
+          ],
+          "pageLikeCount": 22501,
+          "title": "Chef Preserve Compact Vacuum Sealer",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOJ-JbfAwBSudG2Uj6iWKSPYR2yEwOGieXGxPAGTpVM7ZpA_UfA_rmh8knIifU41fe1o0R5SDM9OzdqT03XfPigYLQfiM6MXRm8CNhkR474jA.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=FQCNFQZG-DAQ7kNvwEVP6uh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4MzU5MDQwMzg5NTUzMSwiYXNzZXRfYWdlX2RheXMiOjM4NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjY3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=86792d3c8436b054&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTRCRkE4MjczNkVBNTJGNjE3RkVCQTlERUE1ODRCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dOMHVUQjA1VGh0aTNyUUJBTDlTZXYwcy1GeDdidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWw4fKv6S_AxUCKAJDMywXQFDgAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af5KM1t55xP21iTqdP40qZ7Do7qnptcZgNUt_w5Kuxb-ng&oe=6A0165E0",
+              "videoPreviewImageUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/494141817_9749545661791612_101368502811871663_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GZtqssuPsF0Q7kNvwGNraMa&_nc_oc=Adok0qH6BPxn2EnojpkgseAMPJtLdnlsQvJoa8DqpZitMhTSeq7HAo2aDBK95rVikdQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af46Jtg-xLFtVAg3ddIWd31CNR877UIRhwf2mLLBV-OiJA&oe=6A017216",
+              "videoSdUrl": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQNZKCK2ZDfnITVBaPHuNgAZuT7Au6LyGOXQfevm2tkdTTTnbSnl_2va4vuEJYoLR8vAZDbxpNoqXa2SE5fpERmp.mp4?strext=1&_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=yswaVlzvWNsQ7kNvwEolnA9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTgzNTkwNDAzODk1NTMxLCJhc3NldF9hZ2VfZGF5cyI6Mzg0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af6NjHz0MsuZ8OJGoXjqJnxn2I03MKMxsy4yYbu4uu70Ng&oe=6A016652",
+              "watermarkedVideoHdUrl": "",
+              "watermarkedVideoSdUrl": ""
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Chef Preserve",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "startDate": 1759734000,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "1235000952062534",
+      "page_name": "Norse Organics",
+      "ad_text": "",
+      "headline": "Skincare That Actually Works",
+      "cta": "",
+      "start_date": 1769500800,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "125701703959711",
+        "adArchiveID": "1235000952062534",
+        "startDateFormatted": "2026-01-27T08:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "1235000952062534",
+        "collationCount": 1,
+        "collationId": "933896989297909",
+        "pageId": "125701703959711",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "125701703959711",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/norseorganics/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Norse Organics",
+          "pageProfilePictureUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/576969360_1544746860201464_4009527579970471247_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YEquMKboiYcQ7kNvwE8S-vQ&_nc_oc=Ado8sBoA5s1NNyM6E9l2KJ0O76ZZnVWWgzzJghu5P4ghYIFM9HFUPVAIDqmph45NMJE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af7Sl8k51GUQxMu2nSZjUBgFKy-ck6DJfvXzdGc23858rA&oe=6A018770",
+          "event": null,
+          "caption": "norseorganics.co",
+          "ctaText": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "My doctor said, “It’s just genetics,” when my skin started breaking out in my 30s. She was wrong.\n\nI still remember sitting there trying to explain how quickly everything had changed.\n\nMy skin looked rougher. Oilier. Inflamed.\n\nLike it aged 10 years in six months.\n\nShe barely looked up from her clipboard.\n“It’s just stress,” she said. “Try a better cleanser. Maybe a little accutane.”\n\nI left feeling invisible.\n\nHopeless.\n\nWas I really just supposed to accept acne breakouts, enlarged pores, and a complexion that no longer felt like mine?\n\nOver the next few months, I tried everything: acne creams, spot treatments, facials, and supplements.\n\nNothing helped.\n\nNothing even slowed it down.\n\nMy skin looked worse by the week.\n\nMy glow was gone.\n\nEven the areas that weren’t breaking out looked dull and tired.\n\nI started avoiding mirrors.\n\nSkipped social events.\n\nStopped wearing makeup.\n\nIt felt like my skin, and confidence, had just… faded.\n\nWhat made it worse?\n\nThe things I tried were expensive, complicated, and didn’t work.\n\nSpot treatments dried my face out.\nSupplements didn’t seem to do much.\n“Luxury” creams just sat on top of my skin.\n\nThen everything shifted, over a glass of wine with my sister.\n\nShe told me about a skin therapist she’d met at a wellness retreat in Norway.\n\nThe woman said something I’d never heard before:\n“Acne-prone skin isn’t just dirty. It’s under stress.”\n\nThat hit me.\n\nBecause that’s exactly how my skin felt: fragile, inflamed, stressed.\n\nShe explained how when your skin barrier is weakened, your skin loses:\n• Balance\n• Moisture\n• Resilience\n\nSo it’s not just breaking out. It’s starving.\n\nAnd most products on the market?\n\nToo watered down. Too harsh. Too synthetic.\n\nWhat your skin actually needs is support.\n\nThat’s when I found Norse Organics, an Arctic skincare line made for problem skin, with wild plants that survive -50°C winters and still thrive.\n\nNo water. No fillers. No synthetics.\n\nJust hyper-potent Arctic herbs blended with nourishing oils to calm, clear, and restore.\n\nNorse doesn’t promise overnight results.\n\nIt promises to restore balance, the kind that lasts.\n\nI was skeptical, but curious. So I tried it.\n\nBy day 3, my skin felt calmer.\nBy week 2, the redness had faded and breakouts were healing faster.\nBy week 5, I caught myself smiling in the mirror again.\n\nNo harsh side effects. No guesswork.\n\nJust skin that stayed balanced. Clear. And full of life again.\n\nNorse gave me back the version of myself I missed.\n\nNow when people ask what finally worked, I tell them: Stop attacking your skin. Start supporting it. Because your skin isn’t ruined. It just needs the right kind of care.\n\n✨ Try Kill Acne & Redness Ritual, with a 60-day money-back guarantee (40% OFF):\n👉 https://norseorganics.co/pages/acne\n\nP.S. Whether you’re 18 or 48, acne-prone skin doesn’t need more “actives.” It needs real nourishment, balance, hydration, and herbs that know what they’re doing. This is how you give it back."
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "VIDEO",
+          "linkDescription": "[Low Stock Alert]",
+          "linkUrl": "https://norseorganics.co/pages/acne",
+          "images": [],
+          "pageCategories": [
+            "Health/beauty"
+          ],
+          "pageLikeCount": 47663,
+          "title": "Skincare That Actually Works",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPnonES65DWEOQBPCqs7BHy6ceiQRgV3lICUV_n-FSSa3xtsZpsC-lDBVlQpSO8M7DjFd8BIT8H71vhXBnnSXCgBpgpb509OQEASOJIWRhlZg.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=tnI4Qef45KAQ7kNvwGCCFMl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxOTE5OTY4NzEyODQwNjMsImFzc2V0X2FnZV9kYXlzIjoxODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=afd0ab42a6287396&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMTQ4MTQzMkU2OEMyQkM3OTNFNzM0OTg4QUU0RkY4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UyNEQwRkU3NjEwMjQxNTcwMTcwRTY4RTUxM0U0OEFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-1eStgefkBxUCKAJDMywXQD67peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af5VbfqY0Q0DN-bCeU41R0qn9zR0jmtJT9c7dXYs7mv5FQ&oe=6A018783",
+              "videoPreviewImageUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/577455335_1383106923446995_4417955822589595549_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gv79azrqRvsQ7kNvwG-SGwQ&_nc_oc=AdrOkgRbftdUcMlf94OZlHhjPN1M_NrjYuPbU02JU3VsYKX8D16DjQen5xXrHI250Dw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af7xOVgPDXUhi2h5qQKNkNbZdUpQVxX2S2XJQWKdRh-K1Q&oe=6A016BF1",
+              "videoSdUrl": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQP2NXRaz2ZkVKXQ8QUZx_MPt3SgJuDlCIN0nXyvHwHSbKKu_1QwwdMWKnURVFx5gE49ndUKF2LeHA8Pbub-GCYm_a2oAlaJiOO1937_AA.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=WP7EKFIlcAAQ7kNvwE8y2oU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjE5MTk5Njg3MTI4NDA2MywiYXNzZXRfYWdlX2RheXMiOjE4MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af41pcgAhlLZGIyCEOpAY97rDuCjIFlMPOxnY4VO6Pkv1g&oe=6A0171A4",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Norse Organics",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "startDate": 1769500800,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "511118554287242",
+      "page_name": "Compak Asset Management",
+      "ad_text": "",
+      "headline": "Financial Advisor in Newport Beach & Scottsdale | Compak Asset Management",
+      "cta": "",
+      "start_date": 1669104000,
+      "end_date": 1768204800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "125742218823278",
+        "adArchiveID": "511118554287242",
+        "startDateFormatted": "2022-11-22T08:00:00.000Z",
+        "endDateFormatted": "2026-01-12T08:00:00.000Z",
+        "adArchiveId": "511118554287242",
+        "collationCount": 1,
+        "collationId": "5137940379576003",
+        "pageId": "125742218823278",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "125742218823278",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/InvestCompak/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Compak Asset Management",
+          "pageProfilePictureUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/316673150_1291853275004914_5617272610817290814_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VIq2DgxrGJwQ7kNvwFkMtyY&_nc_oc=AdpQtkIAMZBfit-0HN_inNr7hg3hR6QOygXswRd39G7h-O9OGgITWtOI4RoHoIzp8hg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af7D4Jxc6caf93flJ3Kz0fjH7FN6Ae08GbRu1fsffAyY6w&oe=6A017AB6",
+          "event": null,
+          "caption": "youtube.com",
+          "ctaText": "Learn more",
+          "cards": [],
+          "body": {
+            "text": "Stock Market got you worried about your RETIREMENT? Call Compak for a review today!"
+          },
+          "ctaType": "LEARN_MORE",
+          "displayFormat": "IMAGE",
+          "linkDescription": "A short film discussing our advisory. Get more information at compak.com or call (800)388-9700 with any questions!https://compak.com/",
+          "linkUrl": "https://youtu.be/7CwqIZ0G76c",
+          "images": [
+            {
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/316544906_542558323926798_2150458219346880402_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Sl8XXR8nsxsQ7kNvwE93lbl&_nc_oc=AdozWwyasZqgmopqSl00jVN0NEBUEEMJiUaeNwIuipY0q1C7AGtcPkgc_ORqqURiPgA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af6LN42W_joepOAFlt9JATcdhLfbRbtB9ufw6a5_zNuMNA&oe=6A019A61",
+              "resizedImageUrl": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/316663663_480449377275256_4547564902054485635_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZI1LaPPUNRIQ7kNvwFPqpiG&_nc_oc=AdoH_Eb-NQyKX3XTpMd8_j7Nmn_bPdnfjy8UOPlWonrxGtOa-NGM8yj5voQ0ZEO7hxc&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af6ZXGbuOjH5Y8IFJ-Eu3L-i3qITJC7DULERj-RclZ9r1g&oe=6A017C53",
+              "watermarkedResizedImageUrl": ""
+            }
+          ],
+          "pageCategories": [
+            "Financial Service",
+            "Financial Service"
+          ],
+          "pageLikeCount": 66,
+          "title": "Financial Advisor in Newport Beach & Scottsdale | Compak Asset Management",
+          "videos": [],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Compak Asset Management",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1768204800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "startDate": 1669104000,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "639050188523326",
+      "page_name": "LIV Fishing",
+      "ad_text": "",
+      "headline": "Buy 6 get 2 FREE",
+      "cta": "",
+      "start_date": 1739433600,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "100547795856492",
+        "adArchiveID": "639050188523326",
+        "startDateFormatted": "2025-02-13T08:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "639050188523326",
+        "collationCount": 1,
+        "collationId": "653860587300547",
+        "pageId": "100547795856492",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "100547795856492",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/LIVFISHING.CO/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "LIV Fishing",
+          "pageProfilePictureUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/476884657_4041699686074740_6960022636751376746_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pAVr_KLRamAQ7kNvwHJSkjB&_nc_oc=AdqvQ9sPXNkCRV0sgMNs_1xVJUY54CWKRMEe_GqdKa4DB1-a8luTzv7o2SZDNwYYjxk&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af445u7YPaZiWoirczQK73UrYZxu33GWso4_NEVuj7QxTA&oe=6A0186C5",
+          "event": null,
+          "caption": "livfishing.co",
+          "ctaText": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "LIV FISHING ROD SLEEVES ARE BACK IN STOCK! EVERY 6 ROD SLEEVES YOU PURCHASE, GET 2 MORE FOR FREE!\n\nWHY SHOULD YOU CHOOSE OUR NEOPRENE ROD SLEEVES?\n✔️ They Are Hook Resistant\n✔️ They FLOAT\n✔️ They Don’t SCRATCH Your Rods\n✔️ They Have A Reel Strap\n\nIts simple.... They actually protect your investment unlike nylon rod sleeves. \n\n⬇️⬇️GET YOURS HERE⬇️⬇️\nhttps://www.live2fish.co/collections/rod-sleeves"
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "IMAGE",
+          "linkDescription": "Liv Fishing Rod Sleeves! BUY 6 GET 2 FOR FREE! Super high-quality neoprene fishing rod sleeves. Cover your rods with the most protective rod sleeves on the market! Liv Fishing rod sleeves are Snag resistant, float, and come with a reel strap while protecting the blank of your rod! ON SALE NOW!",
+          "linkUrl": "https://www.live2fish.co/collections/rod-sleeves",
+          "images": [
+            {
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/477138225_616432367677414_7481587978044160727_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fgP9GQWNIWoQ7kNvwG_-8AT&_nc_oc=AdqKHh85qdHztLUCDYxccApV7jSGFNR5p45x77h9r3ALdZ6J8uzUQZMgL3qlVtDnHtg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af7rNIfL-EpF7188dAfFsZQfhc82kI-9vgcJux5zicDlOg&oe=6A018A6D",
+              "resizedImageUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/476961214_607669658547750_7042785828170959484_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vztqv0gFphMQ7kNvwFMiZ5w&_nc_oc=Adr1JAM_CSn6InQnvzmBFRugL17FSZ-WovQ-LZMdNWRXWGCTPPEWlX3gC5OKI3TC-N8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af5lrD8nDFmpuwem-6tvs5-FydZ-R0vjEw42kvDbwchWwQ&oe=6A01758C",
+              "watermarkedResizedImageUrl": ""
+            }
+          ],
+          "pageCategories": [
+            "Outdoor & Sporting Goods Company"
+          ],
+          "pageLikeCount": 23490,
+          "title": "Buy 6 get 2 FREE",
+          "videos": [],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "LIV Fishing",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "startDate": 1739433600,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "1149915510369325",
+      "page_name": "Kulfi",
+      "ad_text": "",
+      "headline": "Limited-Edition Gift Sets ✨",
+      "cta": "",
+      "start_date": 1769932800,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "115045556802922",
+        "adArchiveID": "1149915510369325",
+        "startDateFormatted": "2026-02-01T08:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "1149915510369325",
+        "collationCount": 1,
+        "collationId": "1206512328337011",
+        "pageId": "115045556802922",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "115045556802922",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/KulfiBeautyCo/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Kulfi",
+          "pageProfilePictureUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/621790182_776900044755773_7691792381598112708_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mj8i6saG3YwQ7kNvwFo0-9-&_nc_oc=AdrNKNtJafJ3oxt_OEIZDcDHcQRDFWDF40Ti-hAbFTu-M6xATll3vYsK9ZW9GQvrqfU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af5tnUrvggOym2kxfYasIr1Y35FONNvFBjaVrT012PDCoQ&oe=6A0177C2",
+          "event": null,
+          "caption": "kulfibeauty.com",
+          "ctaText": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "Three signature, best-selling Lassi Lips Staining Lip Oils in one set: Sweet, Rose, & First Sari. \n\nStart with a glossy kiss, let it dry down to a rich stain, and enjoy all-day color and comfort. \n\nVegan, buildable, and always kiss-worthy, perfect for the Lassi Lips obsessed"
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "VIDEO",
+          "linkDescription": "Free Shipping $50+",
+          "linkUrl": "https://kulfibeauty.com/products/lassi-lip-trio?variant=47374654046459",
+          "images": [],
+          "pageCategories": [
+            "Community"
+          ],
+          "pageLikeCount": 6099,
+          "title": "Limited-Edition Gift Sets ✨",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNOIVFn-fo-HLrwFTGRTiFbhkcgpnx999Jk98CVmEMeaNQYmnEIF7IyX7AqqN31MJu_9a3es2GlqhWbJA20CmRo46zX18gJuQ-kgncA76uIsg.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=mRyKha6WjcYQ7kNvwGtaZL2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMDQxNTc4NDE0NzUwNTMsImFzc2V0X2FnZV9kYXlzIjoxMDMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3aeb1d406ce7da85&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CRDRDQzBCQTAyRTYyQ0M2M0ZCRkEyMjhCNTNGMTRCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU0NDM5NUJCNjMyNDk2QjA1ODgyMjQzRUExNzc5OTk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbal_qN_YfRBBUCKAJDMywXQEGzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af5PNiOfuvOQiFQwF8BXwR-zYZpvSbb8X8F1rgnYz83I5Q&oe=6A0168EC",
+              "videoPreviewImageUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/621810759_25821573314169980_1199712718246291934_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y7DsrI_AtNEQ7kNvwH82abG&_nc_oc=AdrIWz4aPPB5WMQpX69wJ18vPm6t6sksNi54hO89Teh8rn1Fcjzmgd7WB-B-GFNbRHs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af5XKQJFkKO5GnSidcYECheCNXR0DBTMW39lnh5njkMVgw&oe=6A017078",
+              "videoSdUrl": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOUoWhpqKimApLMMeg0T8mYu1LjFoeUytv24reDiFNX_odzZCOrdHLBTkwGUAVzdRNsIG1pCByas6-r1HOtGCwdLWZTq69e-23J-0DGZw.mp4?_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=ttsqgPesjGQQ7kNvwGSNEfn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMwNDE1Nzg0MTQ3NTA1MywiYXNzZXRfYWdlX2RheXMiOjEwMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af6QsZLFK-wLLA0lNmJx2RUYoKQxZkp0xFMLHVsmP4qgkw&oe=6A018EF3",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Kulfi",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "startDate": 1769932800,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "813085724673081",
+      "page_name": "Chef Preserve",
+      "ad_text": "",
+      "headline": "Keep Your Food Fresh 5x Longer",
+      "cta": "",
+      "start_date": 1762761600,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "154391267767187",
+        "adArchiveID": "813085724673081",
+        "startDateFormatted": "2025-11-10T08:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "813085724673081",
+        "collationCount": 1,
+        "collationId": "24966582569658579",
+        "pageId": "154391267767187",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "154391267767187",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/chefpreserve/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Chef Preserve",
+          "pageProfilePictureUrl": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/580563532_1147704987452073_3313448306118922691_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VbKl-OV2diMQ7kNvwFktG9q&_nc_oc=AdrFqd0jgTVFHh5sztHmhyFuuBVHfuMGYs3pmetkzJ_eAVsxYEsWunV9qhibXtZ08TQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af4MgjnBTvxid40VvCKSS9w0dbBoHF0DbIM_MKW7PnVHVQ&oe=6A016B7A",
+          "event": null,
+          "caption": "chefpreserve.com",
+          "ctaText": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "Seal your food in just 5 seconds—and make it last 5 times longer! ✅\n\nChef Preserve - the most innovative vacuum sealer on the market 🥇"
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "VIDEO",
+          "linkDescription": null,
+          "linkUrl": "https://chefpreserve.com/pages/cp",
+          "images": [],
+          "pageCategories": [
+            "Brand"
+          ],
+          "pageLikeCount": 22501,
+          "title": "Keep Your Food Fresh 5x Longer",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNCi9I0LWuBEzVYU-y38WhJx_Op7HzjwLdvxNbUEgITSeFZYB0Fnni14uL13ww2-mLzC7EnbdrT_vqH_i6JBVCAvgTckqfZ1zfc0PKWJvro5A.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=Am8TcHxuDj4Q7kNvwHI_Dmz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgwNTUwMzI1MjIyODIwOCwiYXNzZXRfYWdlX2RheXMiOjE4OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c7f739422cd5680e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CRDQ4RkM1NzdDRDUwNDZDMzM1NUE1RkNGODg2MkFCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZENDA2M0ExNEUwRjBCODJGNDk2QjlENjE2MzUzOThGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgobfzuqbuAhUCKAJDMywXQFCMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af77rDqP2q-ZF3J8JZzl3HfLMX_cq7SMvGXvlp2kZuoGgQ&oe=6A018C26",
+              "videoPreviewImageUrl": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/581139348_2594518310933938_5237196797532680045_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YoAnJNw4JVQQ7kNvwHcoMg4&_nc_oc=AdqX_F-UaHwupehRTtDyP_fTQD6gXF9Ne0pHynA6ruKYk22bnb_pgQqUVErUEMT7Pqs&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&oh=00_Af6OljeD2gGUM65IwyPsdB9Y-AkBb0HswODM8WlBVA9gPA&oe=6A018E47",
+              "videoSdUrl": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMrW0wfSaSJcIGlvfRc6_ssct2QNwHMfH0EMCkGzUrNcup_buVBkqnz2KJ4kORVNDcIyEUFJVS0FF8JXYzscJoGSzwJe8AvCMR6w5xcmw.mp4?_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=BbHL7Wvq-lsQ7kNvwExFRxn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODA1NTAzMjUyMjI4MjA4LCJhc3NldF9hZ2VfZGF5cyI6MTg4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qNI8ZJ7pGutGLoa8vCgnRw&_nc_ss=72289&_nc_zt=28&oh=00_Af4aOY9T0mWrs1h0QSMadYldRpUuoFJwESo3hNi4_o1FtA&oe=6A018FB3",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Chef Preserve",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "startDate": 1762761600,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "1490866976005086",
+      "page_name": "Tattoo Numbing Cream Co.",
+      "ad_text": "",
+      "headline": "Same Result with ZERO Pain",
+      "cta": "",
+      "start_date": 1774335600,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "566143040392108",
+        "adArchiveID": "1490866976005086",
+        "startDateFormatted": "2026-03-24T07:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "1490866976005086",
+        "collationCount": null,
+        "collationId": "824619119952456",
+        "pageId": "566143040392108",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "566143040392108",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/tattoonumbingcreamco/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Tattoo Numbing Cream Co.",
+          "pageProfilePictureUrl": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/655989933_1257463779214730_5931717929592782343_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=feJE96kgwyIQ7kNvwFyUlj9&_nc_oc=Adqj33FqZf-wSaNjaX74ER1v6vCmILMdYk8MroQbDr6EV1zQrg8l0Cyc9XlxboFbv7c&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af5_DuB4HfNzA85ZKnUC8oa7C87UuzSf2Ay5TIhgjOUuCA&oe=6A01778A",
+          "event": null,
+          "caption": "www.tattoonumbingcream.com",
+          "ctaText": "Learn more",
+          "cards": [],
+          "body": {
+            "text": "\"Numbing cream ruins tattoos.\"\n\nNo, it doesn't. Our numbing products are specifically formulated to work with your skin,  not against it. The artist gets the same clean canvas, and you get a comfortable, pain-free session.\n\nThe only thing it ruins is the idea that tattoos HAVE to hurt."
+          },
+          "ctaType": "LEARN_MORE",
+          "displayFormat": "VIDEO",
+          "linkDescription": null,
+          "linkUrl": "https://www.tattoonumbingcream.com/en-au/collections/shop-all",
+          "images": [],
+          "pageCategories": [
+            "Website"
+          ],
+          "pageLikeCount": 160483,
+          "title": "Same Result with ZERO Pain",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPRq8TtNa4-4cARBO8XTi9XA295YufEwsd5oh_Dh9neFAbyBQIWRJVQkxi556SdeoSnJOLHw4rk-5U2ubtTD-w3Pcx6hQlU1GsIExy9VFg6AA.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=n2oWVagtNJ4Q7kNvwHpypPo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg2Njk2OTM5NjMxNDcyMywiYXNzZXRfYWdlX2RheXMiOjEwNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d28c912435f41c62&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQTQ0Q0FBOEM4NjdDMEI1QTE2NDEzMjFFMzQ3NUZCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M1NDk4NTVFMERBNzI0RDY3RERBNzY0QkU4OTc3NjhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGibCuoaCKAxUCKAJDMywXQEKMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&_nc_zt=28&oh=00_Af4U_bLh1THv38NYZg-Db4VP3-EuwiP4ch0MynMILrrh7A&oe=6A01807A",
+              "videoPreviewImageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/654853968_869571486107422_7648126135051382199_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=73ydu_DY6FgQ7kNvwGhvr6I&_nc_oc=AdqV6uUTVoaWrTzvyuFYruqAIQF1KHIh_furr3sMZeYdCAXZS9x1gqjyRBvIQH0_ZR0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af6v8mkfoJoNoPTSkD5k0deXHREOdUC-bzhwppjdY-pIzg&oe=6A0181FD",
+              "videoSdUrl": "https://video-ord5-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQMIUOBMbOBq6IxA_Utt2AYRmRygHKDpIduwtB0hK_0ob-ncOqmC0oxlYNPQp1F-7i5X-35dPOzUWu8WnpPiu6lTLTWE8KJraPRfEwjFLw.mp4?_nc_cat=100&_nc_sid=8bf8fe&_nc_ht=video-ord5-3.xx.fbcdn.net&_nc_ohc=ob5MympOuGIQ7kNvwFtvXH7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODY2OTY5Mzk2MzE0NzIzLCJhc3NldF9hZ2VfZGF5cyI6MTA3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&_nc_zt=28&oh=00_Af4YL-mlp0aFpURzU6JQ99I8fwTZ03rwCgHeV1KJCB54Gg&oe=6A016C96",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Tattoo Numbing Cream Co.",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": true,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "startDate": 1774335600,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "1227944622108696",
+      "page_name": "CODE 118",
+      "ad_text": "",
+      "headline": "52% OFF SALE | LIFETIME WARRANTY",
+      "cta": "",
+      "start_date": 1770278400,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "107763778034327",
+        "adArchiveID": "1227944622108696",
+        "startDateFormatted": "2026-02-05T08:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "1227944622108696",
+        "collationCount": null,
+        "collationId": "1441128120555183",
+        "pageId": "107763778034327",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "107763778034327",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/codewallets/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "CODE 118",
+          "pageProfilePictureUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615443652_1220976512694706_6341008253967734957_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fQle6QpkU8gQ7kNvwHhIWDH&_nc_oc=AdrH2qHevT9ajhmBVBJ8MUQfY2oWTi577X0UTwqTB8r0WnPrSZqNLiSqCx9tmTOnF-I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af5wlPKhDZ2ap9eY2vYn1lK03K2C8UK6oCCPiSpswqNhqg&oe=6A0187DB",
+          "event": null,
+          "caption": "code-wallets.com",
+          "ctaText": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "🔥 Get up to 52% Off Today!\n\nLow stock - order now and receive it in as little as 2 business days.\n\nNamed “The Only Wallet Worth Carrying” by MarketWatch.\n\nCODE 118 super-slim RFID protected wallets with instant card access:\n\n✅ Lifetime Warranty\n✅ Fits up to 15 cards + cash\n✅ RFID Blocking\n✅ Modular Design\n\nLifetime Guarantee | Free 45-day Returns | Ships From Los Angeles, California"
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "VIDEO",
+          "linkDescription": null,
+          "linkUrl": "https://code-wallets.com/products/stealth-wallet",
+          "images": [],
+          "pageCategories": [
+            "Brand"
+          ],
+          "pageLikeCount": 50741,
+          "title": "52% OFF SALE | LIFETIME WARRANTY",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOEjvoDfYlxdxjz0k66M8JvLXpmk3gqfcq-SEEj9M-oqD_e45D5hb_3-bEGjF-kYkzt-M9w1IKCvjg0mEa8vOPZjiFj0lgXyICiKgrsz3mZvA.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=p4R3-Zl1-poQ7kNvwFjWkOB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQxOTI4MTU4MTQzMjg2MjksImFzc2V0X2FnZV9kYXlzIjoyNzAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4ed7003428d43b3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QjRCMDc2NzIzQzRBMEFDMUMyRkVDRUFCREFBODJBOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc0NDJEMDBBNUY5OEFDNjlCNzczRkVGNjM0QjcyNEFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbqhMaTgNbyDhUCKAJDMywXQF5TMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&_nc_zt=28&oh=00_Af5ZPlHT5inoDr-hX1y-IIm82LQJ-lT1C4-aDazProRP5A&oe=6A01683C",
+              "videoPreviewImageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615975565_863317070025049_3439043885960376389_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7oPAdtrj_3sQ7kNvwGhduKU&_nc_oc=Ado14vwrrkVtecxB5JoWgnDinG6gASDmat1jBR-lLnJJjZliaDFDcRbVmVw6Ptg_8no&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af6nrn5ggCzq6wWDrbVgDSMoRfNppCF4g776E-3B976xTA&oe=6A01945C",
+              "videoSdUrl": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQM86vHdkCMyiOaiqd19Z5PFswC-4X1wVMJV-oVYGOpvJ__qtIYfkb4e0BlxBJ9We8ZSXncodX_S81DCtetPu8TrLoEkHQ5OMM4mxVtTvQ.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=PJ1xItdRh-8Q7kNvwGeSVUo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDE5MjgxNTgxNDMyODYyOSwiYXNzZXRfYWdlX2RheXMiOjI3MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&_nc_zt=28&oh=00_Af5ww3XhkQb-dtLaxBFCV5hOvXywdtPJ4dI2K4JxFtM3pw&oe=6A019C7B",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "CODE 118",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "startDate": 1770278400,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "31723486630632699",
+      "page_name": "Chef Preserve",
+      "ad_text": "",
+      "headline": "Keep Your Food Fresh 5x Longer",
+      "cta": "",
+      "start_date": 1760338800,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "154391267767187",
+        "adArchiveID": "31723486630632699",
+        "startDateFormatted": "2025-10-13T07:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "31723486630632699",
+        "collationCount": null,
+        "collationId": "2003057977199322",
+        "pageId": "154391267767187",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "154391267767187",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/chefpreserve/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Chef Preserve",
+          "pageProfilePictureUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/560714834_1400770004713222_7001677072301960388_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mtfCH6j0hbMQ7kNvwEZ_3Uy&_nc_oc=Adrrmd65BuE7iQZx9Bg2cEI_Tm4SUqYa7AM_otT9Ikx4vaxGqjtTurD6eoi1s6-e72Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af7bbsFv9Da6vNaxQz7YtAWSO1J0H-0i0bDS1tU-RVSY1g&oe=6A0196FB",
+          "event": null,
+          "caption": "www.chefpreserve.com",
+          "ctaText": "Shop now",
+          "cards": [],
+          "body": {
+            "text": "Seal your food in just 5 seconds—and make it last 5 times longer! ✅\n\nChef Preserve - the most innovative vacuum sealer on the market 🥇\n\n➡️  www.chefpreserve.com/pages/cp"
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "VIDEO",
+          "linkDescription": null,
+          "linkUrl": "https://chefpreserve.com/pages/cp",
+          "images": [],
+          "pageCategories": [
+            "Brand"
+          ],
+          "pageLikeCount": 22501,
+          "title": "Keep Your Food Fresh 5x Longer",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMYwPSJux9aNGSbJ71eRzg3yu7fpFu0rr-jc53mhjfHWzChkJzT4szGqGqqnvFW00Tg1yfXVjrSxRU4J-lvkM-NxBuvJj9lSf9yfBkLAJfYug.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=HU-sCxV0mF0Q7kNvwHuIFGL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzg3MTIxMDQzMjczMjYsImFzc2V0X2FnZV9kYXlzIjoyMTgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d4ea3deab04bfbbe&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EQTQzMjIwOTRBRkZGREQ5ODZCM0Q5NUUxOTI1REU4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U3NEI4MjEzMzczMzEyRkU2NzlENzczQzIxMkE5M0IyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa84tan4umFBBUCKAJDMywXQFXd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&_nc_zt=28&oh=00_Af505WFW6aY7Mm4haLvZqHM6TC0HrtQrgaZJjZIiU8q7PQ&oe=6A01702C",
+              "videoPreviewImageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/565780812_784925447754390_2216252206153517684_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C3P6EcXwYqYQ7kNvwF9khq_&_nc_oc=Adr0Hv3o6CvJDPjORnLuCLvWjMwxULtAKDbdtnZ9wFAnvy1nmJmuV3sg40kGx_tqq_M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af4yl5507Wj23ijTCNoE_upZz57F3dG5yQ1dycrl0QC1HA&oe=6A018A91",
+              "videoSdUrl": "https://video-ord5-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQO2nXujwu6YHsVqCs5X-hezp0rypWBIGrKoAu5D7PpciKI5q4-B7VCd_M6HFQ8QvJzprY-rjUIhYd5xFlLNhSelerHIHRA40ZacD4yttw.mp4?_nc_cat=109&_nc_sid=8bf8fe&_nc_ht=video-ord5-3.xx.fbcdn.net&_nc_ohc=iqnQD3vz6XQQ7kNvwGzX0zi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTEzODcxMjEwNDMyNzMyNiwiYXNzZXRfYWdlX2RheXMiOjIxOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjg3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&_nc_zt=28&oh=00_Af4hu_HP1w1D8Gg9QQikssIYKtntbfqJGG6zRId15BB5Yg&oe=6A016A95",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Chef Preserve",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "startDate": 1760338800,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "7189208417770663",
+      "page_name": "Car Covers Factory",
+      "ad_text": "",
+      "headline": "Car Covers Factory",
+      "cta": "",
+      "start_date": 1698044400,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "103582795974717",
+        "adArchiveID": "7189208417770663",
+        "startDateFormatted": "2023-10-23T07:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "7189208417770663",
+        "collationCount": null,
+        "collationId": "733376195079219",
+        "pageId": "103582795974717",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "103582795974717",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/CarCoversFactory/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Car Covers Factory",
+          "pageProfilePictureUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/372005124_242309981611452_1936481451624963682_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nyb_I1K9V28Q7kNvwGpUwzb&_nc_oc=AdrYE2btlvoEFQ2Y0yWvLBiv4cLuuWXcViUOAXZagFS7FTl9-oD3ulS0jObn403Gdh4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af6gSi0avZpezIpiJLA_A4kU_e-5J6zAF1DADKYXj1laGQ&oe=6A01787C",
+          "event": null,
+          "caption": "carcoversfactory.com",
+          "ctaText": "Shop now",
+          "cards": [
+            {
+              "body": " ",
+              "ctaType": "SHOP_NOW",
+              "caption": "carcoversfactory.com",
+              "linkDescription": " ",
+              "linkUrl": "https://www.carcoversfactory.com/?utm_source=facebook&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}",
+              "title": "Protective Car Covers",
+              "ctaText": "Shop Now",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/368353180_1012089846796149_2383609574665811_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1E-rCZbhLykQ7kNvwH0ibKz&_nc_oc=Adp5ucIwNhQsS0Tts72DeHsjGdgf5vhLlO1eoZ49YjapM71r9n7N921df2unThMYTn4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af5psAgKwqm2jovTHsswC0yTzoOwAKoZPYIPx4Z5KhPVFQ&oe=6A016F43",
+              "resizedImageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/372036559_3272015493090075_1140870403641285056_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lyEA4bvkiNcQ7kNvwHfwMLD&_nc_oc=Adq0A9D4-e2kD3OQXj03-yfDIiqzYIp3R0K-w-1jE9NCrUfGr8UYQgKTA4YNou22pdk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af5M1jeXvyGZWDK56UA05vmtNZ5-X12-Vx_d0R-OPD4yMA&oe=6A019335",
+              "watermarkedResizedImageUrl": ""
+            },
+            {
+              "body": " ",
+              "ctaType": "SHOP_NOW",
+              "caption": "carcoversfactory.com",
+              "linkDescription": " ",
+              "linkUrl": "https://www.carcoversfactory.com/?utm_source=facebook&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}",
+              "title": "FREE 3 DAY SHIPPING",
+              "ctaText": "Shop Now",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/372026547_971804283874912_4414848691482519283_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xf0FbraCBhsQ7kNvwGh1WuR&_nc_oc=Adove-NrS3Gl6uA8st5qKGCzHRoHPgLHMfHOcGSfmNYaSPcr9D8FRR_YOE9qjFvSzEk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af7qcMfmJT5RrVhKOIFbTSQlMyErBml7fKN35JQvuMbSyQ&oe=6A016B9E",
+              "resizedImageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/368367717_3584556181869406_6581340535482354435_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zdQVfAJINRAQ7kNvwFLEWHM&_nc_oc=AdoQ7seZLa5K5vost8BxJeaxJG0H2LSCya9cIOWkQxcS564kLLLhKnRTJAMoqwgF7Ao&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af4hZjo2uMGeygveD9p2W7hwRerw7G8-Zh-_ssJtKSbTpQ&oe=6A01809C",
+              "watermarkedResizedImageUrl": ""
+            },
+            {
+              "body": " ",
+              "ctaType": "SHOP_NOW",
+              "caption": "carcoversfactory.com",
+              "linkDescription": " ",
+              "linkUrl": "https://www.carcoversfactory.com/?utm_source=facebook&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}",
+              "title": "ADDITIONAL 10% OFF TODAY",
+              "ctaText": "Shop Now",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/368362857_1050095322663412_6520928299342606552_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ur-b71FNN9gQ7kNvwH5bgQZ&_nc_oc=AdoSjL9TYv33m02lFG66jKZaFoGU4RwZm00aNntnlK30JGNzfdaK0RUwzG4GApEGQIk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af5K9rMtMuUNk-c1udK2241l9RE9BLDPb0TvEYlLfv-Jjg&oe=6A01769D",
+              "resizedImageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/368331270_1511723319634066_7941850018608387322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rGBxKprVWHgQ7kNvwHuAM8V&_nc_oc=AdrVPZgTCGlXfNukJxUT2uA9QEemMsYU15D2Jw6j8iLlIER_yXN9-SiCNNXfWvgyMX4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af4d_3biZcyGSZvSWbjioUchDI--bAdmLnEeus3Qb4RXwQ&oe=6A0190A9",
+              "watermarkedResizedImageUrl": ""
+            },
+            {
+              "body": " ",
+              "ctaType": "SHOP_NOW",
+              "caption": "carcoversfactory.com",
+              "linkDescription": " ",
+              "linkUrl": "https://www.carcoversfactory.com/?utm_source=facebook&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}",
+              "title": "USE COUPON 'SAVE10'",
+              "ctaText": "Shop Now",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/371920551_1334925280780238_6239117136499253959_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kd3Ayd1AuAIQ7kNvwGQzA6D&_nc_oc=AdoGNFkLiATkoL3Qyn_u4WUvIzvYyeJ0fZwXeZCgPGv6n28Q0q2y2JCm5UDonTVzdfM&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af60JF2_2Px5nCbfd3tJouefZMMZRuqC50ijz4sazLwh0A&oe=6A016EE8",
+              "resizedImageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/370544416_849122416782547_3455860919605134792_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fvIUiqDQDSUQ7kNvwH5Mjwc&_nc_oc=AdpkSLu4ZbGA5YHQtg4oSehr_DitQT1iz7yqFFeyLGz7tK5Lo7X6ZWqWQrXsOiVuSDM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af5KFofzv2xcqVcYiUev2ogKUAi88X3WHx1GL9norxf-VQ&oe=6A019424",
+              "watermarkedResizedImageUrl": ""
+            },
+            {
+              "body": " ",
+              "ctaType": "SHOP_NOW",
+              "caption": "carcoversfactory.com",
+              "linkDescription": " ",
+              "linkUrl": "https://www.carcoversfactory.com/?utm_source=facebook&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}",
+              "title": "56,000+ CUSTOMER REVIEWS",
+              "ctaText": "Shop Now",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/368352598_217829037618081_1914954894133122988_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qcw4k-AzM8MQ7kNvwFMkjIf&_nc_oc=AdofRmBr5i4HSpK3Wtg4Wvh6ZD384CeLbrs6tAwCIcRzWdqTEd-ONFcKdsJbjBAbjt0&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af5-AYPQm4MYyzMHF_f-eMkIxkv1DKqioz5OXJXsgy2w9w&oe=6A019469",
+              "resizedImageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/372051992_141349552364257_5414283495158139680_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=02gDlHwMO1sQ7kNvwEqi1N_&_nc_oc=AdrrwKoYDm-EguT4wH38ynVRGjB553Lr16a9jC5yZo5Mr4JCGpgzZva2c-szi7ICfj4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af535dcpvOfVL50L_z3uBiJXpgXi5-_SDyI3Vm3NjJ11-A&oe=6A01914D",
+              "watermarkedResizedImageUrl": ""
+            },
+            {
+              "body": " ",
+              "ctaType": "SHOP_NOW",
+              "caption": "carcoversfactory.com",
+              "linkDescription": " ",
+              "linkUrl": "https://www.carcoversfactory.com/?utm_source=facebook&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}",
+              "title": "LOWEST PRICE",
+              "ctaText": "Shop Now",
+              "videoHdUrl": null,
+              "videoPreviewImageUrl": null,
+              "videoSdUrl": null,
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/368245182_691864736306451_8754486640145471116_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NbUJ7HP18ysQ7kNvwFtlMF3&_nc_oc=Adq7nORWANYOXSKAylsx050bEt5OSbWNOl9zXDDYp7WQo9-guJR6TiMwvByOaaJ1nfw&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af4hqU9KEFK7QiX260QS0iTvK4rYYC0cmnlx7YPA8D_nqw&oe=6A016DC6",
+              "resizedImageUrl": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/371976447_1415629352325357_167628608883201042_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VEA7Kt7TGk8Q7kNvwEne_as&_nc_oc=AdpBlRvRz4f9ZWTVdHs691mNJOAHKEk7eHiqdMZqp_z2UNIrfQySmHkBbRrasLteBrw&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af4TjZcE9Fk6rhuCQBBTarxQ4zgivsrDopCuXDyTxNP6Eg&oe=6A018871",
+              "watermarkedResizedImageUrl": ""
+            }
+          ],
+          "body": {
+            "text": "Keep your car looking like new for years to come with Car Covers Factory. \nOur car covers provide the ultimate protection from sun, wind, dust, rain, and snow - no matter the make or model. Plus, with our best fit guarantee and lowest prices around, you can trust that you're getting the best deal on the market. \nShop now and get 24/7 customer care support on https://www.carcoversfactory.com"
+          },
+          "ctaType": "SHOP_NOW",
+          "displayFormat": "CAROUSEL",
+          "linkDescription": null,
+          "linkUrl": "https://www.carcoversfactory.com/?utm_source=facebook&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}",
+          "images": [],
+          "pageCategories": [
+            "Retail company"
+          ],
+          "pageLikeCount": 934,
+          "title": "Car Covers Factory",
+          "videos": [],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Car Covers Factory",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "startDate": 1698044400,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    },
+    {
+      "id": "1123058636470586",
+      "page_name": "Trading Academy",
+      "ad_text": "",
+      "headline": "FREE Trading Workshop",
+      "cta": "",
+      "start_date": 1758783600,
+      "end_date": 1778050800,
+      "platforms": [],
+      "impressions": {
+        "impressionsText": null,
+        "impressionsIndex": -1
+      },
+      "media_type": "",
+      "url": "",
+      "raw": {
+        "inputUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stock market&search_type=keyword_unordered",
+        "pageInfo": {
+          "adLibrarySystemStatus": {
+            "systemStatus": {
+              "status": "HIGH_DISRUPTIONS",
+              "activeIssues": [
+                {
+                  "product": "Ad Library",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Ad Library Report",
+                  "status": "HIGH_DISRUPTIONS"
+                },
+                {
+                  "product": "Ad Library API",
+                  "status": "NO_KNOWN_ISSUES"
+                },
+                {
+                  "product": "Branded Content",
+                  "status": "NO_KNOWN_ISSUES"
+                }
+              ]
+            }
+          },
+          "xfbAdLibraryIsCaptchaRequired": false,
+          "page": null,
+          "adLibraryUser": null
+        },
+        "pageID": "328255550563255",
+        "adArchiveID": "1123058636470586",
+        "startDateFormatted": "2025-09-25T07:00:00.000Z",
+        "endDateFormatted": "2026-05-06T07:00:00.000Z",
+        "adArchiveId": "1123058636470586",
+        "collationCount": null,
+        "collationId": "1506666894107328",
+        "pageId": "328255550563255",
+        "snapshot": {
+          "brandedContent": null,
+          "pageId": "328255550563255",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/OnlineTradingAcademy/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "Trading Academy",
+          "pageProfilePictureUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/553008158_1656638605722735_8807948240256046803_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=un3DrUmMPmcQ7kNvwE8ljWj&_nc_oc=AdpquClMzhnI_rDj6YIc4dzSIGsvGpeL_FB__21KVsRvEQCZ1Zlsj8_dReTw_8X5tn8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af671jPM-eRpkd29GFbP_e-HtFe5-XL7z1ALU0Dwmjyhzg&oe=6A018FC4",
+          "event": null,
+          "caption": "www.tradingacademy.com",
+          "ctaText": "Learn more",
+          "cards": [],
+          "body": {
+            "text": "👉 𝗔𝘁𝘁𝗲𝗻𝗱 𝗧𝗵𝗲 𝗙𝗥𝗘𝗘 𝗜𝗡-𝗣𝗘𝗥𝗦𝗢𝗡 𝗧𝗿𝗮𝗱𝗶𝗻𝗴 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽!\n\n✅ Two-hour live workshop at one of our education centers\n✅ Weekly stock trade samples from some of our most popular instructors\n✅ Trading QuickStart Kit packed with 𝟭𝟬 𝗺𝗶𝗻𝗶-𝗹𝗲𝘀𝘀𝗼𝗻𝘀 𝗼𝗻 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗮𝘀𝘀𝗲𝘁𝘀, 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝘆 𝗮𝗻𝗱 𝗺𝗼𝗿𝗲\n👉 Do you think Wall Street uses the news and tips from their brother-in-law to decide when to buy and sell? 👈\n\n𝗝𝗼𝗶𝗻 𝘂𝘀 𝗳𝗼𝗿 𝗮 𝗳𝗿𝗲𝗲 𝗶𝗻𝘁𝗿𝗼 𝘄𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝘄𝗵𝗲𝗿𝗲 𝘆𝗼𝘂’𝗹𝗹 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿 𝗮 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝘆 𝘁𝗵𝗮𝘁 𝘁𝗲𝗮𝗰𝗵𝗲𝘀 𝘆𝗼𝘂 𝘁𝗼 𝗳𝗼𝗹𝗹𝗼𝘄 𝘁𝗵𝗲 𝗯𝗶𝗴 𝗯𝗮𝗻𝗸𝘀, 𝗻𝗼𝘁 𝗰𝗼𝗺𝗽𝗲𝘁𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲𝗺.\n\n✅ Plus, get access to our Tradetelligence Member Portal with weekly market overview and stock trade samples just for attending."
+          },
+          "ctaType": "LEARN_MORE",
+          "displayFormat": "VIDEO",
+          "linkDescription": "⭐⭐⭐⭐⭐ 94% Student Satisfaction",
+          "linkUrl": "http://www.tradingacademy.com/registration/freeworkshop",
+          "images": [],
+          "pageCategories": [
+            "Education"
+          ],
+          "pageLikeCount": 122434,
+          "title": "FREE Trading Workshop",
+          "videos": [
+            {
+              "videoHdUrl": "https://video-ord5-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQMSIwp5Z8bdH27fIQWQ9sSV0w_yDbrRGImBT_5Y2IhIp6CPn0bbk2TBahydk99umiA4BaUwpp_37rLjAFTJFlFaX0zJGaOvhuwwtm2aeO4ItA.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=video-ord5-3.xx.fbcdn.net&_nc_ohc=AO-mAdlAWAMQ7kNvwFta8Po&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1NjM3OTE3NzA2NTE3ODgsImFzc2V0X2FnZV9kYXlzIjoyMjQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7471cd8f39d20330&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMTQxRDExRjc0Qzg5Njc0NzQyMDczOEU5OTJGNzdCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE0NDYzRTE3OTAwNTU5QkMzQzFGMDc0MDYyQTMxQzgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaYsqScqfCNCRUCKAJDMywXQCQQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&_nc_zt=28&oh=00_Af66sFpvKwYPdh7OYnppwM4s0-ZliueEPb0CSV21vV1YIg&oe=6A016934",
+              "videoPreviewImageUrl": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/514397233_787244140560653_7392895680297046691_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8Qz7rWRFzZwQ7kNvwELtis3&_nc_oc=AdolKHjc_saiQG4yEKuP6DCojGHFsV6_NeDGK_K49-w2quoCLqSoSN-Ce_US-DGEc9s&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&oh=00_Af77fddM59ABBs7NGzpBBwqkH25QjGtniGE-AJ3MaAficA&oe=6A01684F",
+              "videoSdUrl": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMgYVmsaDJYrEiQLn0AxkMKBXKklF3m86mJD1GJnVj3dlkMb6Kz_9c8ZtKzkJ2AIUSDZgeGN3p1gc7XJWH_tJg28gHwLBeD27uW9C8WGw.mp4?_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=anoby6Z85dMQ7kNvwGxWn5s&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjU2Mzc5MTc3MDY1MTc4OCwiYXNzZXRfYWdlX2RheXMiOjIyNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=5Tr-Igb8Gp_mPOozztG88Q&_nc_ss=72289&_nc_zt=28&oh=00_Af67h8ae8nYuEio2jGH58JS68BTEc1HG9sbjgt07me9cpA&oe=6A01741A",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null
+            }
+          ],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        },
+        "isActive": true,
+        "hasUserReported": false,
+        "reportCount": null,
+        "menuItems": [],
+        "stateMediaRunLabel": null,
+        "pageIsDeleted": false,
+        "pageName": "Trading Academy",
+        "impressionsWithIndex": {
+          "impressionsText": null,
+          "impressionsIndex": -1
+        },
+        "gatedType": "ELIGIBLE",
+        "categories": [
+          "UNKNOWN"
+        ],
+        "isAaaEligible": false,
+        "containsDigitalCreatedMedia": false,
+        "reachEstimate": null,
+        "currency": "",
+        "spend": null,
+        "endDate": 1778050800,
+        "publisherPlatform": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "startDate": 1758783600,
+        "containsSensitiveContent": false,
+        "totalActiveTime": null,
+        "regionalRegulationData": {
+          "finserv": {
+            "isDeemedFinserv": false,
+            "isLimitedDelivery": false
+          },
+          "twAntiScam": {
+            "isLimitedDelivery": false
+          }
+        },
+        "hideDataStatus": "NONE",
+        "fevInfo": null,
+        "adId": null,
+        "targetedOrReachedCountries": []
+      }
+    }
+  ]
+}
